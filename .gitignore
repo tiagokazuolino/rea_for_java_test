@@ -1,0 +1,12 @@
+# Alvos binários (JARs, .class, APKs) não são versionados — coloque-os em targets/
+targets/*
+!targets/.gitkeep
+
+# Saídas temporárias do REA
+.rea/
+*.log
+
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
