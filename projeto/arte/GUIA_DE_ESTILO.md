@@ -16,12 +16,16 @@
 | cenario | 17 | Fundos de sala |
 | skill | 40 | 5 skills × 8 níveis de ícone |
 | emoji_chat | 49 | Emojis de reação do chat |
-| ui_monetizacao | 26 | Botões de booster, no-ads, tickets, moedas |
+| ui_monetizacao | 26 | Botões de booster, tickets, moedas (os de no-ads podem virar "testar roupa") |
 | ui_botao / ui_moldura / ui_icone | 22 / 114 / 51 | Botões, painéis 9-slice, ícones |
 | vfx | 22 | Brilhos, partículas, raios |
 
 Cada linha traz: arquivo original (para ver **tamanho e função**), função original, nome do novo asset,
-**prompt**, **prompt negativo**, confiança da classificação e caminho de saída em `novos_sprites/`.
+**prompt do zero**, **prompt de transformação**, **prompt negativo**, confiança da classificação e caminho de saída em `novos_sprites/`.
+
+- `pacote_referencia/` (fora do git): os 591 sprites **originais** separados por categoria, cada um com seu
+  `.prompt.txt`, e `index.html`, uma galeria com filtro e botões de copiar. Abra no navegador.
+  Para recriar: `ferramentas/montar_pacote.py` (ver README do projeto).
 
 ## Direção de arte
 
@@ -38,9 +42,17 @@ Cada linha traz: arquivo original (para ver **tamanho e função**), função or
 
 1. **Folha de personagem primeiro.** Gere a Mia (frente, 3/4, costas) com o prompt de `personagem.md` e fixe a
    identidade com seed fixa, LoRA ou *character reference* da ferramenta. Faça o mesmo para cada NPC.
-2. **Gere cada sprite pelo prompt de texto.** Use o original **só** para conferir proporção, tamanho e o que o asset
-   precisa comunicar. Não use img2img, lineart nem trace do original: a arte nova tem de ser criação independente.
-   Para manter a mesma *pose* de uma animação, pode usar um esqueleto OpenPose desenhado por você.
+2. **Gere cada sprite.** Há dois prompts por sprite. Abra `pacote_referencia/index.html`: cada card mostra o original e
+   os dois prompts, com botão de copiar. Na pasta da categoria, cada `.png` vem com o `.prompt.txt` correspondente.
+   - **Prompt de transformação:** envie o `.png` original **junto** com o prompt para um modelo de edição de imagem
+     (img2img / "edit image"). Ele mantém pose, enquadramento e tamanho e redesenha o resto. É o caminho mais rápido
+     para protótipo e para manter o encaixe das animações.
+   - **Prompt do zero:** só texto, sem o original. É o caminho seguro para os assets **finais publicados**.
+
+   ⚠️ **Risco de direitos autorais:** imagem gerada a partir do sprite original pode ser considerada obra derivada da arte
+   da CSC Mobi, mesmo redesenhada. Use a transformação para protótipo e layout. Para a versão publicada, regere pelo
+   prompt do zero ou redesenhe à mão até não restar traço, composição ou detalhe reconhecível do original.
+   Para manter só a *pose*, um esqueleto OpenPose desenhado por você também funciona com o prompt do zero.
 3. **Mantenha o tamanho.** Gere em 2× e reduza para o `largura x altura` do catálogo, mantendo o pivô no mesmo lugar
    (personagens pelo pé, ícones pelo centro).
 4. **Salve** em `novos_sprites/<origem>/<nome>.png` com o **mesmo nome** do original. Assim dá para trocar os assets em lote no Unity.

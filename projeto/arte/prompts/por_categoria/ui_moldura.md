@@ -14,8 +14,16 @@ nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, 
 - Salvar em: `arte/novos_sprites/base/BarProgress.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'BarProgress' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 133x30px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 133x30px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'BarProgress' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Bar_1`
@@ -26,8 +34,16 @@ UI panel/frame 'BarProgress' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Bar_1.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Bar_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 200x172px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 200x172px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Bar_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Bar_2`
@@ -38,8 +54,16 @@ UI panel/frame 'Bar_1' (keep same shape and proportions, empty, no text), 9-slic
 - Salvar em: `arte/novos_sprites/base/Bar_2.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Bar_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 200x172px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 200x172px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Bar_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Bar_4`
@@ -50,8 +74,16 @@ UI panel/frame 'Bar_2' (keep same shape and proportions, empty, no text), 9-slic
 - Salvar em: `arte/novos_sprites/base/Bar_4.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Bar_4' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 200x172px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 200x172px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Bar_4' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Bar_Follow`
@@ -62,8 +94,16 @@ UI panel/frame 'Bar_4' (keep same shape and proportions, empty, no text), 9-slic
 - Salvar em: `arte/novos_sprites/base/Bar_Follow.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Bar_Follow' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 259x18px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 259x18px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Bar_Follow' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Bar_update`
@@ -74,8 +114,16 @@ UI panel/frame 'Bar_Follow' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Bar_update.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Bar_update' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 437x22px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 437x22px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Bar_update' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Circle`
@@ -86,8 +134,16 @@ UI panel/frame 'Bar_update' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Circle.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Circle' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 64x64px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 64x64px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Circle' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Ellipse_16`
@@ -98,8 +154,16 @@ UI panel/frame 'Circle' (keep same shape and proportions, empty, no text), 9-sli
 - Salvar em: `arte/novos_sprites/base/Ellipse_16.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Ellipse_16' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 271x270px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 271x270px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Ellipse_16' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Ellipse_17`
@@ -110,8 +174,16 @@ UI panel/frame 'Ellipse_16' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Ellipse_17.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Ellipse_17' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 301x300px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 301x300px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Ellipse_17' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Ellipse_18`
@@ -122,8 +194,16 @@ UI panel/frame 'Ellipse_17' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Ellipse_18.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Ellipse_18' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 90x90px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 90x90px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Ellipse_18' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FillProgress`
@@ -134,8 +214,16 @@ UI panel/frame 'Ellipse_18' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/FillProgress.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FillProgress' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 121x18px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 121x18px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FillProgress' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Fill_Follow`
@@ -146,8 +234,16 @@ UI panel/frame 'FillProgress' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Fill_Follow.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Fill_Follow' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 257x16px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 257x16px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Fill_Follow' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Fill_update`
@@ -158,8 +254,16 @@ UI panel/frame 'Fill_Follow' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Fill_update.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Fill_update' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 433x18px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 433x18px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Fill_update' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameAutoClick`
@@ -170,8 +274,16 @@ UI panel/frame 'Fill_update' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameAutoClick.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameAutoClick' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 838x500px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 838x500px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameAutoClick' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameBar`
@@ -182,8 +294,16 @@ UI panel/frame 'FrameAutoClick' (keep same shape and proportions, empty, no text
 - Salvar em: `arte/novos_sprites/base/FrameBar.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameBar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 832x102px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 832x102px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameBar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameBigMoney`
@@ -194,8 +314,16 @@ UI panel/frame 'FrameBar' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/FrameBigMoney.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameBigMoney' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 834x500px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 834x500px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameBigMoney' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameBottom`
@@ -206,8 +334,16 @@ UI panel/frame 'FrameBigMoney' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/FrameBottom.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameBottom' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 1080x241px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 1080x241px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameBottom' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameBoxChat`
@@ -218,8 +354,16 @@ UI panel/frame 'FrameBottom' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameBoxChat.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameBoxChat' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 997x332px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 997x332px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameBoxChat' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameChat`
@@ -230,8 +374,16 @@ UI panel/frame 'FrameBoxChat' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameChat.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameChat' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 494x60px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 494x60px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameChat' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameChat1_0`
@@ -242,8 +394,16 @@ UI panel/frame 'FrameChat' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/FrameChat1_0.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameChat1_0' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 61x61px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 61x61px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameChat1_0' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameChat2_0`
@@ -254,8 +414,16 @@ UI panel/frame 'FrameChat1_0' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameChat2_0.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameChat2_0' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 61x61px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 61x61px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameChat2_0' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameChat3_0`
@@ -266,8 +434,16 @@ UI panel/frame 'FrameChat2_0' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameChat3_0.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameChat3_0' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 61x61px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 61x61px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameChat3_0' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameCloset`
@@ -278,8 +454,16 @@ UI panel/frame 'FrameChat3_0' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameCloset.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameCloset' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 356x356px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 356x356px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameCloset' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameContent`
@@ -290,8 +474,16 @@ UI panel/frame 'FrameCloset' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameContent.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameContent' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 837x477px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 837x477px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameContent' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameContent_2`
@@ -302,8 +494,16 @@ UI panel/frame 'FrameContent' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameContent_2.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameContent_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 837x390px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 837x390px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameContent_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameDropdown`
@@ -314,8 +514,16 @@ UI panel/frame 'FrameContent_2' (keep same shape and proportions, empty, no text
 - Salvar em: `arte/novos_sprites/base/FrameDropdown.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameDropdown' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 700x444px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 700x444px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameDropdown' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameGolden`
@@ -326,8 +534,16 @@ UI panel/frame 'FrameDropdown' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/FrameGolden.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameGolden' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 277x67px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 277x67px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameGolden' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameGoldenPack`
@@ -338,8 +554,16 @@ UI panel/frame 'FrameGolden' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameGoldenPack.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameGoldenPack' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 842x305px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 842x305px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameGoldenPack' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameIconItem`
@@ -350,8 +574,16 @@ UI panel/frame 'FrameGoldenPack' (keep same shape and proportions, empty, no tex
 - Salvar em: `arte/novos_sprites/base/FrameIconItem.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameIconItem' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 200x172px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 200x172px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameIconItem' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameItemCloset`
@@ -362,8 +594,16 @@ UI panel/frame 'FrameIconItem' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/FrameItemCloset.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameItemCloset' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 1014x301px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 1014x301px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameItemCloset' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameLanguage`
@@ -374,8 +614,16 @@ UI panel/frame 'FrameItemCloset' (keep same shape and proportions, empty, no tex
 - Salvar em: `arte/novos_sprites/base/FrameLanguage.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameLanguage' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 700x108px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 700x108px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameLanguage' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameLock`
@@ -386,8 +634,16 @@ UI panel/frame 'FrameLanguage' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/FrameLock.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameLock' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 433x161px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 433x161px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameLock' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameMaxUpgrade`
@@ -398,8 +654,16 @@ UI panel/frame 'FrameLock' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/FrameMaxUpgrade.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameMaxUpgrade' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 202x44px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 202x44px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameMaxUpgrade' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameMessage`
@@ -410,8 +674,16 @@ UI panel/frame 'FrameMaxUpgrade' (keep same shape and proportions, empty, no tex
 - Salvar em: `arte/novos_sprites/base/FrameMessage.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameMessage' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 433x161px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 433x161px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameMessage' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameMultiplierBar`
@@ -422,8 +694,16 @@ UI panel/frame 'FrameMessage' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameMultiplierBar.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameMultiplierBar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 812x86px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 812x86px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameMultiplierBar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameName`
@@ -434,8 +714,16 @@ UI panel/frame 'FrameMultiplierBar' (keep same shape and proportions, empty, no 
 - Salvar em: `arte/novos_sprites/base/FrameName.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameName' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 719x164px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 719x164px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameName' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameNewRoom`
@@ -446,8 +734,16 @@ UI panel/frame 'FrameName' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/FrameNewRoom.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameNewRoom' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 837x496px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 837x496px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameNewRoom' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameNoAds`
@@ -458,8 +754,16 @@ UI panel/frame 'FrameNewRoom' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameNoAds.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 842x305px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 842x305px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameNoAds`
@@ -470,8 +774,16 @@ UI panel/frame 'FrameNoAds' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/FrameNoAds.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 830x501px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 830x501px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FramePackNoAds`
@@ -482,8 +794,16 @@ UI panel/frame 'FrameNoAds' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/FramePackNoAds.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FramePackNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 888x309px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 888x309px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FramePackNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameRank`
@@ -494,8 +814,16 @@ UI panel/frame 'FramePackNoAds' (keep same shape and proportions, empty, no text
 - Salvar em: `arte/novos_sprites/base/FrameRank.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameRank' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 436x174px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 436x174px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameRank' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameReduce`
@@ -506,8 +834,16 @@ UI panel/frame 'FrameRank' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/FrameReduce.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameReduce' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 836x502px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 836x502px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameReduce' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameSelect`
@@ -518,8 +854,16 @@ UI panel/frame 'FrameReduce' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameSelect.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameSelect' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 160x98px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 160x98px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameSelect' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameSetting`
@@ -530,8 +874,16 @@ UI panel/frame 'FrameSelect' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameSetting.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameSetting' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 816x313px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 816x313px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameSetting' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameSmallMoney`
@@ -542,8 +894,16 @@ UI panel/frame 'FrameSetting' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/FrameSmallMoney.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameSmallMoney' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 834x500px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 834x500px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameSmallMoney' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameStars`
@@ -554,8 +914,16 @@ UI panel/frame 'FrameSmallMoney' (keep same shape and proportions, empty, no tex
 - Salvar em: `arte/novos_sprites/base/FrameStars.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameStars' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 487x1024px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 487x1024px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameStars' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameTime`
@@ -566,8 +934,16 @@ UI panel/frame 'FrameStars' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/FrameTime.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameTime' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 128x32px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 128x32px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameTime' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameTimeCountdown`
@@ -578,8 +954,16 @@ UI panel/frame 'FrameTime' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/FrameTimeCountdown.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameTimeCountdown' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 214x68px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 214x68px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameTimeCountdown' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameToggle`
@@ -590,8 +974,16 @@ UI panel/frame 'FrameTimeCountdown' (keep same shape and proportions, empty, no 
 - Salvar em: `arte/novos_sprites/base/FrameToggle.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameToggle' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 835x144px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 835x144px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameToggle' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameToggleOff`
@@ -602,8 +994,16 @@ UI panel/frame 'FrameToggle' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/FrameToggleOff.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameToggleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 146x70px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 146x70px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameToggleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameToggleOn`
@@ -614,8 +1014,16 @@ UI panel/frame 'FrameToggleOff' (keep same shape and proportions, empty, no text
 - Salvar em: `arte/novos_sprites/base/FrameToggleOn.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameToggleOn' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 80x36px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 80x36px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameToggleOn' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/FrameToggleOn`
@@ -626,8 +1034,16 @@ UI panel/frame 'FrameToggleOn' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/FrameToggleOn.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'FrameToggleOn' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 137x61px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 137x61px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'FrameToggleOn' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Avatar`
@@ -638,8 +1054,16 @@ UI panel/frame 'FrameToggleOn' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/Frame_Avatar.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Avatar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 150x150px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 150x150px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Avatar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Coin`
@@ -650,8 +1074,16 @@ UI panel/frame 'Frame_Avatar' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Frame_Coin.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Coin' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 248x72px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 248x72px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Coin' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Content`
@@ -662,8 +1094,16 @@ UI panel/frame 'Frame_Coin' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Frame_Content.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Content' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 433x161px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 433x161px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Content' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_ContentNoAds`
@@ -674,8 +1114,16 @@ UI panel/frame 'Frame_Content' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/Frame_ContentNoAds.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_ContentNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 581x266px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 581x266px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_ContentNoAds' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Item_2`
@@ -686,8 +1134,16 @@ UI panel/frame 'Frame_ContentNoAds' (keep same shape and proportions, empty, no 
 - Salvar em: `arte/novos_sprites/base/Frame_Item_2.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Item_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 288x408px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 288x408px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Item_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Level`
@@ -698,8 +1154,16 @@ UI panel/frame 'Frame_Item_2' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Frame_Level.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Level' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 144x48px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 144x48px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Level' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Profile`
@@ -710,8 +1174,16 @@ UI panel/frame 'Frame_Level' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Frame_Profile.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Profile' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 471x203px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 471x203px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Profile' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_Rank`
@@ -722,8 +1194,16 @@ UI panel/frame 'Frame_Profile' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/Frame_Rank.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_Rank' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 112x40px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 112x40px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_Rank' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_View`
@@ -734,8 +1214,16 @@ UI panel/frame 'Frame_Rank' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Frame_View.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_View' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 156x64px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 156x64px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_View' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_afk`
@@ -746,8 +1234,16 @@ UI panel/frame 'Frame_View' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Frame_afk.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_afk' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 837x496px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 837x496px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_afk' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_fill`
@@ -758,8 +1254,16 @@ UI panel/frame 'Frame_afk' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Frame_fill.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_fill' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 581x20px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 581x20px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_fill' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_light`
@@ -770,8 +1274,16 @@ UI panel/frame 'Frame_fill' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Frame_light.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_light' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 871x530px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 871x530px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_light' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Frame_progress`
@@ -782,8 +1294,16 @@ UI panel/frame 'Frame_light' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Frame_progress.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Frame_progress' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 586x25px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 586x25px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Frame_progress' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Framex10`
@@ -794,8 +1314,16 @@ UI panel/frame 'Frame_progress' (keep same shape and proportions, empty, no text
 - Salvar em: `arte/novos_sprites/base/Framex10.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Framex10' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 830x505px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 830x505px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Framex10' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Framex4Pass`
@@ -806,8 +1334,16 @@ UI panel/frame 'Framex10' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Framex4Pass.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Framex4Pass' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 830x501px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 830x501px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Framex4Pass' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Framex4Tap`
@@ -818,8 +1354,16 @@ UI panel/frame 'Framex4Pass' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Framex4Tap.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Framex4Tap' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 826x494px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 826x494px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Framex4Tap' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_195_1`
@@ -830,8 +1374,16 @@ UI panel/frame 'Framex4Tap' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Group_195_1.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_195_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 1001x1286px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 1001x1286px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_195_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_22`
@@ -842,8 +1394,16 @@ UI panel/frame 'Group_195_1' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Group_22.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_22' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 374x20px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 374x20px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_22' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_26`
@@ -854,8 +1414,16 @@ UI panel/frame 'Group_22' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_26.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_26' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 324x141px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 324x141px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_26' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_27`
@@ -866,8 +1434,16 @@ UI panel/frame 'Group_26' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_27.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_27' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 246x104px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 246x104px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_27' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_272`
@@ -878,8 +1454,16 @@ UI panel/frame 'Group_27' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_272.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_272' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 295x428px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 295x428px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_272' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_275`
@@ -890,8 +1474,16 @@ UI panel/frame 'Group_272' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_275.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_275' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 290x410px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 290x410px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_275' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_276`
@@ -902,8 +1494,16 @@ UI panel/frame 'Group_275' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_276.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_276' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 290x410px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 290x410px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_276' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_292`
@@ -914,8 +1514,16 @@ UI panel/frame 'Group_276' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_292.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_292' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 866x259px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 866x259px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_292' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_293`
@@ -926,8 +1534,16 @@ UI panel/frame 'Group_292' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_293.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_293' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 827x501px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 827x501px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_293' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_303_1`
@@ -938,8 +1554,16 @@ UI panel/frame 'Group_293' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_303_1.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_303_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 931x361px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 931x361px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_303_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_304_2`
@@ -950,8 +1574,16 @@ UI panel/frame 'Group_303_1' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Group_304_2.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_304_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 991x532px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 991x532px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_304_2' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_309`
@@ -962,8 +1594,16 @@ UI panel/frame 'Group_304_2' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Group_309.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_309' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 186x181px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 186x181px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_309' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_311`
@@ -974,8 +1614,16 @@ UI panel/frame 'Group_309' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_311.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_311' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 228x170px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 228x170px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_311' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_32`
@@ -986,8 +1634,16 @@ UI panel/frame 'Group_311' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/Group_32.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_32' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 959x1532px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 959x1532px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_32' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_44`
@@ -998,8 +1654,16 @@ UI panel/frame 'Group_32' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_44.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_44' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 292x116px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 292x116px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_44' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_44`
@@ -1010,8 +1674,16 @@ UI panel/frame 'Group_44' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_44.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_44' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 324x141px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 324x141px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_44' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_44_1`
@@ -1022,8 +1694,16 @@ UI panel/frame 'Group_44' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_44_1.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_44_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 452x144px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 452x144px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_44_1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_54`
@@ -1034,8 +1714,16 @@ UI panel/frame 'Group_44_1' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/Group_54.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_54' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 290x410px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 290x410px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_54' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_55`
@@ -1046,8 +1734,16 @@ UI panel/frame 'Group_54' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_55.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_55' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 290x412px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 290x412px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_55' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Group_56`
@@ -1058,8 +1754,16 @@ UI panel/frame 'Group_55' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/Group_56.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Group_56' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 290x410px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 290x410px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Group_56' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/LineSaleOff`
@@ -1070,8 +1774,16 @@ UI panel/frame 'Group_56' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/LineSaleOff.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'LineSaleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 131x4px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 131x4px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'LineSaleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Line_11`
@@ -1082,8 +1794,16 @@ UI panel/frame 'LineSaleOff' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/Line_11.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Line_11' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 280x5px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 280x5px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Line_11' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Outline_Avatar`
@@ -1094,8 +1814,16 @@ UI panel/frame 'Line_11' (keep same shape and proportions, empty, no text), 9-sl
 - Salvar em: `arte/novos_sprites/base/Outline_Avatar.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Outline_Avatar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 162x162px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 162x162px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Outline_Avatar' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_31`
@@ -1106,8 +1834,16 @@ UI panel/frame 'Outline_Avatar' (keep same shape and proportions, empty, no text
 - Salvar em: `arte/novos_sprites/base/Rectangle_31.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_31' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 369x16px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 369x16px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_31' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_60`
@@ -1118,8 +1854,16 @@ UI panel/frame 'Rectangle_31' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_60.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_60' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 520x70px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 520x70px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_60' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_76`
@@ -1130,8 +1874,16 @@ UI panel/frame 'Rectangle_60' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_76.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_76' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 572x112px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 572x112px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_76' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_79`
@@ -1142,8 +1894,16 @@ UI panel/frame 'Rectangle_76' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_79.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_79' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 572x112px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 572x112px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_79' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_80`
@@ -1154,8 +1914,16 @@ UI panel/frame 'Rectangle_79' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_80.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_80' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 582x120px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 582x120px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_80' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_81`
@@ -1166,8 +1934,16 @@ UI panel/frame 'Rectangle_80' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_81.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_81' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 132x52px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 132x52px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_81' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_82`
@@ -1178,8 +1954,16 @@ UI panel/frame 'Rectangle_81' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_82.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_82' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 191x86px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 191x86px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_82' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Rectangle_83`
@@ -1190,8 +1974,16 @@ UI panel/frame 'Rectangle_82' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Rectangle_83.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Rectangle_83' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 191x86px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 191x86px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Rectangle_83' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Square`
@@ -1202,8 +1994,16 @@ UI panel/frame 'Rectangle_83' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/Square.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Square' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 4x4px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 4x4px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Square' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Square`
@@ -1214,8 +2014,16 @@ UI panel/frame 'Square' (keep same shape and proportions, empty, no text), 9-sli
 - Salvar em: `arte/novos_sprites/base/Square.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'Square' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 256x256px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 256x256px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'Square' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/TagSaleOff`
@@ -1226,8 +2034,16 @@ UI panel/frame 'Square' (keep same shape and proportions, empty, no text), 9-sli
 - Salvar em: `arte/novos_sprites/base/TagSaleOff.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'TagSaleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 99x99px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 99x99px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'TagSaleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/TitleCloset`
@@ -1238,8 +2054,16 @@ UI panel/frame 'TagSaleOff' (keep same shape and proportions, empty, no text), 9
 - Salvar em: `arte/novos_sprites/base/TitleCloset.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'TitleCloset' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 664x127px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 664x127px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'TitleCloset' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/TitleSaleOff`
@@ -1250,8 +2074,16 @@ UI panel/frame 'TitleCloset' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/TitleSaleOff.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'TitleSaleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 99x99px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 99x99px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'TitleSaleOff' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bar_name`
@@ -1262,8 +2094,16 @@ UI panel/frame 'TitleSaleOff' (keep same shape and proportions, empty, no text),
 - Salvar em: `arte/novos_sprites/base/bar_name.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'bar_name' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 323x93px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 323x93px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'bar_name' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bar_popup`
@@ -1274,8 +2114,16 @@ UI panel/frame 'bar_name' (keep same shape and proportions, empty, no text), 9-s
 - Salvar em: `arte/novos_sprites/base/bar_popup.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'bar_popup' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 846x159px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 846x159px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'bar_popup' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bar_popup`
@@ -1286,8 +2134,16 @@ UI panel/frame 'bar_popup' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/bar_popup.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'bar_popup' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 980x463px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 980x463px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'bar_popup' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/footer_lodyas`
@@ -1298,8 +2154,16 @@ UI panel/frame 'bar_popup' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/footer_lodyas.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'footer_lodyas' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 512x407px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 512x407px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'footer_lodyas' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/progress1`
@@ -1310,8 +2174,16 @@ UI panel/frame 'footer_lodyas' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/progress1.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'progress1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 791x54px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 791x54px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'progress1' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/progress_bg`
@@ -1322,8 +2194,16 @@ UI panel/frame 'progress1' (keep same shape and proportions, empty, no text), 9-
 - Salvar em: `arte/novos_sprites/base/progress_bg.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'progress_bg' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 99x602px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 99x602px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'progress_bg' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/progress_full`
@@ -1334,8 +2214,16 @@ UI panel/frame 'progress_bg' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/progress_full.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'progress_full' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 187x283px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 187x283px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'progress_full' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/progress_heart_4`
@@ -1346,8 +2234,16 @@ UI panel/frame 'progress_full' (keep same shape and proportions, empty, no text)
 - Salvar em: `arte/novos_sprites/base/progress_heart_4.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'progress_heart_4' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 135x654px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 135x654px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'progress_heart_4' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/progress_ld`
@@ -1358,8 +2254,16 @@ UI panel/frame 'progress_heart_4' (keep same shape and proportions, empty, no te
 - Salvar em: `arte/novos_sprites/base/progress_ld.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'progress_ld' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 803x71px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 803x71px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'progress_ld' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/progress_water`
@@ -1370,6 +2274,14 @@ UI panel/frame 'progress_ld' (keep same shape and proportions, empty, no text), 
 - Salvar em: `arte/novos_sprites/base/progress_water.png`
 - Obs.: Conferir o original para entender a função antes de gerar.
 
+Prompt (gerar do zero):
+
 ```
 UI panel/frame 'progress_water' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 106x605px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same outline shape, border thickness and inner area so it still works as a 9-slice panel, canvas 106x605px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: UI panel/frame 'progress_water' (keep same shape and proportions, empty, no text), 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```

@@ -16,3 +16,6 @@ projeto/analise/apk_unpacked/
 projeto/analise/extraido/
 projeto/.venv/
 __pycache__/
+
+# Pacote de trabalho com os sprites originais (arte de terceiros)
+projeto/arte/pacote_referencia/

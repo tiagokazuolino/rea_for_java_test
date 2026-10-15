@@ -11,20 +11,19 @@ namespace ZombieStreamer.Monetization
         Failed,
     }
 
-    /// <summary>Fronteira com o SDK de anúncios (AppLovin MAX, AdMob...). Implementações em Adapters/.</summary>
+    /// <summary>
+    /// Fronteira com o SDK de anúncios. Só vídeo recompensado, e só quando o jogador toca no botão:
+    /// o jogo não tem intersticial nem banner.
+    /// </summary>
     public interface IAdService
     {
         bool IsRewardedReady { get; }
-        bool IsInterstitialReady { get; }
 
         void Initialize(Action onReady);
 
         /// <param name="placementId">Usado em analytics/relatórios do SDK.</param>
         /// <param name="onFinished">Completed somente quando o SDK confirmar a recompensa.</param>
         void ShowRewarded(string placementId, Action<AdShowResult> onFinished);
-
-        void ShowInterstitial(string placementId, Action<AdShowResult> onFinished);
-        void SetBannerVisible(bool visible);
     }
 
     public enum PurchaseFailure
@@ -33,6 +32,7 @@ namespace ZombieStreamer.Monetization
         AlreadyOwned,
         NotAvailable,
         PaymentDeclined,
+        MissingChoice,
         Unknown,
     }
 
@@ -59,7 +59,7 @@ namespace ZombieStreamer.Monetization
 
         void Purchase(string productId);
 
-        /// <summary>Recompra/restauração de não-consumíveis (no-ads).</summary>
+        /// <summary>Recompra/restauração de não-consumíveis.</summary>
         void RestorePurchases();
 
         /// <summary>Disparado para compras novas E pendentes/restauradas no startup.</summary>
@@ -69,11 +69,6 @@ namespace ZombieStreamer.Monetization
 
         /// <summary>Confirma à loja que a entrega foi feita (consome/acknowledge).</summary>
         void ConfirmDelivered(PurchaseReceipt receipt);
-    }
-
-    public interface IClock
-    {
-        double NowSeconds { get; }
     }
 
     public interface IAnalytics

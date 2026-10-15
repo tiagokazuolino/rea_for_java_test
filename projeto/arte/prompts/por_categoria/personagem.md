@@ -13,8 +13,16 @@ nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, 
 - Novo asset: **Charlotte - rival da elite (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Charlotte1.png`
 
+Prompt (gerar do zero):
+
 ```
 Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailored plaid uniform with tactical harness, confident arms crossed, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 370x550px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 370x550px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailored plaid uniform with tactical harness, confident arms crossed, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Charlotte2`
@@ -24,8 +32,16 @@ Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailore
 - Novo asset: **Charlotte - rival da elite (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Charlotte2.png`
 
+Prompt (gerar do zero):
+
 ```
 Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailored plaid uniform with tactical harness, confident arms crossed, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 388x549px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 388x549px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailored plaid uniform with tactical harness, confident arms crossed, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Charlotte3`
@@ -35,8 +51,16 @@ Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailore
 - Novo asset: **Charlotte - rival da elite (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Charlotte3.png`
 
+Prompt (gerar do zero):
+
 ```
 Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailored plaid uniform with tactical harness, confident arms crossed, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 368x542px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 368x542px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailored plaid uniform with tactical harness, confident arms crossed, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Chef_Marco`
@@ -46,8 +70,16 @@ Charlotte, elegant rival survivor, long wavy blonde hair, round glasses, tailore
 - Novo asset: **Marco - cozinheiro do acampamento (neutral expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Chef_Marco.png`
 
+Prompt (gerar do zero):
+
 ```
 Marco, tanned adult man chef, white chef uniform with apron, friendly smile, holding a frying pan with dents, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 509x774px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 509x774px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Marco, tanned adult man chef, white chef uniform with apron, friendly smile, holding a frying pan with dents, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Chef_Marco2`
@@ -57,8 +89,16 @@ Marco, tanned adult man chef, white chef uniform with apron, friendly smile, hol
 - Novo asset: **Marco - cozinheiro do acampamento (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Chef_Marco2.png`
 
+Prompt (gerar do zero):
+
 ```
 Marco, tanned adult man chef, white chef uniform with apron, friendly smile, holding a frying pan with dents, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 543x785px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 543x785px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Marco, tanned adult man chef, white chef uniform with apron, friendly smile, holding a frying pan with dents, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Chef_Marco3`
@@ -68,8 +108,16 @@ Marco, tanned adult man chef, white chef uniform with apron, friendly smile, hol
 - Novo asset: **Marco - cozinheiro do acampamento (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Chef_Marco3.png`
 
+Prompt (gerar do zero):
+
 ```
 Marco, tanned adult man chef, white chef uniform with apron, friendly smile, holding a frying pan with dents, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 536x793px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 536x793px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Marco, tanned adult man chef, white chef uniform with apron, friendly smile, holding a frying pan with dents, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Customer`
@@ -79,8 +127,16 @@ Marco, tanned adult man chef, white chef uniform with apron, friendly smile, hol
 - Novo asset: **Sobrevivente compradora (neutral expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Customer.png`
 
+Prompt (gerar do zero):
+
 ```
 adult woman survivor shopper, cardigan, holding a bag of canned food, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 405x648px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 405x648px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: adult woman survivor shopper, cardigan, holding a bag of canned food, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Idol`
@@ -90,8 +146,16 @@ adult woman survivor shopper, cardigan, holding a bag of canned food, neutral ex
 - Novo asset: **A Streamer Lendária (neutral expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Idol.png`
 
+Prompt (gerar do zero):
+
 ```
 legendary idol streamer sitting cross-legged in a glowing aura, white stage outfit with protective jacket, mysterious and inspiring, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 941x1600px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 941x1600px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: legendary idol streamer sitting cross-legged in a glowing aura, white stage outfit with protective jacket, mysterious and inspiring, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Lara`
@@ -101,8 +165,16 @@ legendary idol streamer sitting cross-legged in a glowing aura, white stage outf
 - Novo asset: **Lara - médica de campo (neutral expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Lara.png`
 
+Prompt (gerar do zero):
+
 ```
 Lara, adult woman, long brown hair, navy medic uniform with red cross armband, first aid kit, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 400x628px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 400x628px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Lara, adult woman, long brown hair, navy medic uniform with red cross armband, first aid kit, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dau_bep1`
@@ -112,8 +184,16 @@ Lara, adult woman, long brown hair, navy medic uniform with red cross armband, f
 - Novo asset: **Mia - chef de abrigo (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/dau_bep1.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle like a weapon, apron with duct tape, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 318x649px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 318x649px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle like a weapon, apron with duct tape, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dau_bep2`
@@ -123,8 +203,16 @@ Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle li
 - Novo asset: **Mia - chef de abrigo (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/dau_bep2.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle like a weapon, apron with duct tape, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 440x619px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 440x619px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle like a weapon, apron with duct tape, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dau_bep3`
@@ -134,8 +222,16 @@ Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle li
 - Novo asset: **Mia - chef de abrigo (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/dau_bep3.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle like a weapon, apron with duct tape, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 467x649px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 467x649px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle like a weapon, apron with duct tape, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hana1`
@@ -145,8 +241,16 @@ Mia, blonde hair with blue tips, white chef jacket and toque, holding a ladle li
 - Novo asset: **Hana - coordenadora do abrigo (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/hana1.png`
 
+Prompt (gerar do zero):
+
 ```
 Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and handheld radio, professional and kind, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 446x667px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 446x667px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and handheld radio, professional and kind, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hana2`
@@ -156,8 +260,16 @@ Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and
 - Novo asset: **Hana - coordenadora do abrigo (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/hana2.png`
 
+Prompt (gerar do zero):
+
 ```
 Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and handheld radio, professional and kind, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 310x665px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 310x665px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and handheld radio, professional and kind, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hana3`
@@ -167,8 +279,16 @@ Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and
 - Novo asset: **Hana - coordenadora do abrigo (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/hana3.png`
 
+Prompt (gerar do zero):
+
 ```
 Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and handheld radio, professional and kind, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 428x670px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 428x670px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and handheld radio, professional and kind, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/lara2`
@@ -178,8 +298,16 @@ Hana, adult woman, short brown bob, pink blazer over utility vest, clipboard and
 - Novo asset: **Lara - médica de campo (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/lara2.png`
 
+Prompt (gerar do zero):
+
 ```
 Lara, adult woman, long brown hair, navy medic uniform with red cross armband, first aid kit, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 270x631px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 270x631px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Lara, adult woman, long brown hair, navy medic uniform with red cross armband, first aid kit, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/lara3`
@@ -189,8 +317,16 @@ Lara, adult woman, long brown hair, navy medic uniform with red cross armband, f
 - Novo asset: **Lara - médica de campo (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/lara3.png`
 
+Prompt (gerar do zero):
+
 ```
 Lara, adult woman, long brown hair, navy medic uniform with red cross armband, first aid kit, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 313x636px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 313x636px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Lara, adult woman, long brown hair, navy medic uniform with red cross armband, first aid kit, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main1`
@@ -200,8 +336,16 @@ Lara, adult woman, long brown hair, navy medic uniform with red cross armband, f
 - Novo asset: **Mia - moletom inicial (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main1.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, leggings, sneakers, small bandage on cheek, phone in hand, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 512x684px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 512x684px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, leggings, sneakers, small bandage on cheek, phone in hand, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main2`
@@ -211,8 +355,16 @@ Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, l
 - Novo asset: **Mia - moletom inicial (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main2.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, leggings, sneakers, small bandage on cheek, phone in hand, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 333x685px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 333x685px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, leggings, sneakers, small bandage on cheek, phone in hand, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main3`
@@ -222,8 +374,16 @@ Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, l
 - Novo asset: **Mia - moletom inicial (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main3.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, leggings, sneakers, small bandage on cheek, phone in hand, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 472x684px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 472x684px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, leggings, sneakers, small bandage on cheek, phone in hand, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_bikini1`
@@ -233,8 +393,16 @@ Mia, survivor streamer, brown messy hair, oversized white hoodie with patches, l
 - Novo asset: **Mia - traje de praia (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_bikini1.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, modest one-piece-style sports top with board shorts and open hoodie, life vest, holding a coconut drink and a walkie-talkie, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 437x599px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 437x599px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, modest one-piece-style sports top with board shorts and open hoodie, life vest, holding a coconut drink and a walkie-talkie, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_bikini2`
@@ -244,8 +412,16 @@ Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, mod
 - Novo asset: **Mia - traje de praia (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_bikini2.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, modest one-piece-style sports top with board shorts and open hoodie, life vest, holding a coconut drink and a walkie-talkie, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 460x599px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 460x599px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, modest one-piece-style sports top with board shorts and open hoodie, life vest, holding a coconut drink and a walkie-talkie, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_bikini3`
@@ -255,8 +431,16 @@ Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, mod
 - Novo asset: **Mia - traje de praia (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_bikini3.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, modest one-piece-style sports top with board shorts and open hoodie, life vest, holding a coconut drink and a walkie-talkie, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 469x598px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 469x598px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, modest one-piece-style sports top with board shorts and open hoodie, life vest, holding a coconut drink and a walkie-talkie, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_hs1`
@@ -266,8 +450,16 @@ Mia, cheerful survivor streamer, blonde hair with blue tips, gaming headset, mod
 - Novo asset: **Mia - uniforme da escola abandonada (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_hs1.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, knee pads and a backpack full of scavenged supplies, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 289x592px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 289x592px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, knee pads and a backpack full of scavenged supplies, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_hs2`
@@ -277,8 +469,16 @@ Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, kne
 - Novo asset: **Mia - uniforme da escola abandonada (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_hs2.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, knee pads and a backpack full of scavenged supplies, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 474x567px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 474x567px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, knee pads and a backpack full of scavenged supplies, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_hs3`
@@ -288,8 +488,16 @@ Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, kne
 - Novo asset: **Mia - uniforme da escola abandonada (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_hs3.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, knee pads and a backpack full of scavenged supplies, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 518x568px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 518x568px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, knee pads and a backpack full of scavenged supplies, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_pv1`
@@ -299,8 +507,16 @@ Mia, blonde hair with blue tips, gaming headset, school blazer with red bow, kne
 - Novo asset: **Mia - uniforme de abrigo (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_pv1.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag, tool belt with flashlight, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 289x593px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 289x593px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag, tool belt with flashlight, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_pv2`
@@ -310,8 +526,16 @@ Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag
 - Novo asset: **Mia - uniforme de abrigo (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_pv2.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag, tool belt with flashlight, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 418x595px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 418x595px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag, tool belt with flashlight, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/main_pv3`
@@ -321,8 +545,16 @@ Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag
 - Novo asset: **Mia - uniforme de abrigo (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/main_pv3.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag, tool belt with flashlight, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 292x596px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 292x596px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag, tool belt with flashlight, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/otaku1`
@@ -332,8 +564,16 @@ Mia, blonde hair with blue tips, gaming headset, navy vest uniform with name tag
 - Novo asset: **Fãs zumbis fofos (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/otaku1.png`
 
+Prompt (gerar do zero):
+
 ```
 two cute cartoon zombie fans, green skin, stitched clothes, holding glow sticks and a fan banner, enthusiastic, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 494x685px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 494x685px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: two cute cartoon zombie fans, green skin, stitched clothes, holding glow sticks and a fan banner, enthusiastic, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/pijama`
@@ -343,8 +583,16 @@ two cute cartoon zombie fans, green skin, stitched clothes, holding glow sticks 
 - Novo asset: **Mia - pijama (neutral expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/pijama.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zombie, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 294x642px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 294x642px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zombie, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/pijama2`
@@ -354,8 +602,16 @@ Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zomb
 - Novo asset: **Mia - pijama (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/pijama2.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zombie, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 319x644px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 319x644px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zombie, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/pijama3`
@@ -365,8 +621,16 @@ Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zomb
 - Novo asset: **Mia - pijama (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/pijama3.png`
 
+Prompt (gerar do zero):
+
 ```
 Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zombie, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 318x644px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 318x644px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zombie, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/rose1`
@@ -376,8 +640,16 @@ Mia, blonde hair with blue tips, polka-dot pajamas, sleepy, holding a plush zomb
 - Novo asset: **Rose - batedora com câmera (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/rose1.png`
 
+Prompt (gerar do zero):
+
 ```
 Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with zoom lens and binoculars, scout vibe, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 515x624px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 515x624px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with zoom lens and binoculars, scout vibe, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/rose2`
@@ -387,8 +659,16 @@ Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with z
 - Novo asset: **Rose - batedora com câmera (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/rose2.png`
 
+Prompt (gerar do zero):
+
 ```
 Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with zoom lens and binoculars, scout vibe, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 413x621px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 413x621px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with zoom lens and binoculars, scout vibe, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/rose3`
@@ -398,8 +678,16 @@ Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with z
 - Novo asset: **Rose - batedora com câmera (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/rose3.png`
 
+Prompt (gerar do zero):
+
 ```
 Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with zoom lens and binoculars, scout vibe, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 457x627px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 457x627px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with zoom lens and binoculars, scout vibe, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sam1`
@@ -409,8 +697,16 @@ Rose, adult woman, wavy pink hair, light cardigan and cargo pants, camera with z
 - Novo asset: **Sam - mecânica e saqueadora (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/sam1.png`
 
+Prompt (gerar do zero):
+
 ```
 Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, goggles on head, wrench and spray paint, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 328x541px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 328x541px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, goggles on head, wrench and spray paint, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sam2`
@@ -420,8 +716,16 @@ Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, go
 - Novo asset: **Sam - mecânica e saqueadora (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/sam2.png`
 
+Prompt (gerar do zero):
+
 ```
 Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, goggles on head, wrench and spray paint, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 323x538px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 323x538px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, goggles on head, wrench and spray paint, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sam3`
@@ -431,8 +735,16 @@ Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, go
 - Novo asset: **Sam - mecânica e saqueadora (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/sam3.png`
 
+Prompt (gerar do zero):
+
 ```
 Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, goggles on head, wrench and spray paint, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 375x540px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 375x540px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, goggles on head, wrench and spray paint, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sam_bikini1`
@@ -442,8 +754,16 @@ Sam, adult woman, short orange hair, school-style blazer with rolled sleeves, go
 - Novo asset: **Sam - mecânica na praia (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/sam_bikini1.png`
 
+Prompt (gerar do zero):
+
 ```
 Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered, wrench on shoulder, playful, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 305x565px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 305x565px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered, wrench on shoulder, playful, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sam_bikini2`
@@ -453,8 +773,16 @@ Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered
 - Novo asset: **Sam - mecânica na praia (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/sam_bikini2.png`
 
+Prompt (gerar do zero):
+
 ```
 Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered, wrench on shoulder, playful, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 394x565px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 394x565px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered, wrench on shoulder, playful, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sam_bikini3`
@@ -464,8 +792,16 @@ Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered
 - Novo asset: **Sam - mecânica na praia (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/sam_bikini3.png`
 
+Prompt (gerar do zero):
+
 ```
 Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered, wrench on shoulder, playful, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 329x567px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 329x567px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered, wrench on shoulder, playful, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/siriee1`
@@ -475,8 +811,16 @@ Sam, adult woman, short orange hair, yellow wetsuit-style jumpsuit fully covered
 - Novo asset: **Siri-Z - celular companheiro (neutral or worried expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/siriee1.png`
 
+Prompt (gerar do zero):
+
 ```
 cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, tiny zombie keychain charm, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 243x356px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 243x356px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, tiny zombie keychain charm, neutral or worried expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/siriee2`
@@ -486,8 +830,16 @@ cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, ti
 - Novo asset: **Siri-Z - celular companheiro (happy smiling expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/siriee2.png`
 
+Prompt (gerar do zero):
+
 ```
 cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, tiny zombie keychain charm, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 243x356px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 243x356px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, tiny zombie keychain charm, happy smiling expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/siriee3`
@@ -497,8 +849,16 @@ cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, ti
 - Novo asset: **Siri-Z - celular companheiro (excited surprised expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/siriee3.png`
 
+Prompt (gerar do zero):
+
 ```
 cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, tiny zombie keychain charm, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 243x356px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 243x356px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, tiny zombie keychain charm, excited surprised expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/teacher`
@@ -508,6 +868,14 @@ cute smartphone mascot with cat-ear case, cracked screen showing kawaii face, ti
 - Novo asset: **Prof. Silva - cientista da cura (neutral expression)** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/teacher.png`
 
+Prompt (gerar do zero):
+
 ```
 middle-aged man professor, glasses, beige lab coat over sweater, holding a notebook with formulas and a test tube, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 506x630px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 506x630px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: middle-aged man professor, glasses, beige lab coat over sweater, holding a notebook with formulas and a test tube, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```

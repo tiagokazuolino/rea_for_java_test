@@ -1,7 +1,8 @@
 # Projeto: *Zombie Streamer: Idle Survival*
 
-Jogo idle clicker com a mesma estrutura de *Viral Streamer: Idle Clicker* (loop, salas, skills, roupas, ranks e monetização),
-reambientado num apocalipse zumbi com uma protagonista **adulta**, arte **original** e zumbis sem gore.
+Jogo idle clicker com a mesma estrutura de *Viral Streamer: Idle Clicker* (loop, salas, skills, roupas e ranks), com monetização mais justa: anúncio só quando o jogador escolhe e só dá
+vantagem temporária; item e nível permanente só se conquista ou se compra. Tudo
+é reambientado num apocalipse zumbi com uma protagonista **adulta**, arte **original** e zumbis sem gore.
 
 ## Estrutura
 
@@ -19,20 +20,22 @@ projeto/
 │   ├── prompts/
 │   │   ├── catalogo_sprites.csv/json # 740 sprites: função original, novo asset, prompt e negativo
 │   │   └── por_categoria/*.md        # mesmos prompts agrupados por tipo
+│   ├── pacote_referencia/            # (fora do git) originais + prompts por categoria + index.html (galeria)
 │   ├── referencia_estilo/            # folhas de personagem e moodboard ORIGINAIS do jogo novo
 │   └── novos_sprites/                # saída final (mesmo nome do sprite original)
 ├── design/
 │   ├── economia/                     # salas.json, skills.json, roupas.json, ranks.json
 │   └── monetizacao/                  # MONETIZACAO.md, iap_catalogo.json, ad_placements.json
 ├── jogo/Assets/                      # código Unity (C#)
-│   ├── Scripts/Economy/              # carteira, recompensas, RewardGranter
-│   ├── Scripts/Monetization/         # ofertas rewarded, compras, pacing + Adapters/ (MAX, Unity IAP, fakes)
+│   ├── Scripts/Economy/              # carteira, efeitos temporários, regra de recompensas
+│   ├── Scripts/Monetization/         # assistir = temporário, comprar = permanente + Adapters/ (MAX, Unity IAP, fakes)
 │   ├── Resources/Config/             # cópia dos JSON de monetização usada em runtime
 │   └── Tests/EditMode/               # testes NUnit (Unity Test Runner)
 └── ferramentas/
     ├── extrair_sprites.py            # UnityPy: APK descompactado → sprites/texturas/textos
     ├── mapa_tematico.py              # tabelas de conversão de tema + estilo dos prompts
-    └── gerar_catalogo.py             # inventário → catálogo com prompt por sprite
+    ├── gerar_catalogo.py             # inventário → catálogo com prompt do zero + prompt de transformação
+    └── montar_pacote.py              # catálogo + originais → pacote_referencia/ com galeria HTML
 ```
 
 ## Reproduzir a análise
@@ -55,12 +58,16 @@ projeto/.venv/Scripts/python -I projeto/ferramentas/extrair_sprites.py projeto/a
 projeto/.venv/Scripts/python -I projeto/ferramentas/gerar_catalogo.py projeto/analise/extraido/inventario.json projeto/arte/prompts
 ```
 
+```bash
+projeto/.venv/Scripts/python -I projeto/ferramentas/montar_pacote.py projeto/arte/prompts/catalogo_sprites.json projeto/analise/extraido projeto/arte/pacote_referencia
+```
+
 ## Usar no Unity
 
 1. Crie um projeto Unity 6 (URP 2D) e copie `jogo/Assets/*` para o `Assets/` dele.
 2. Instale `com.unity.nuget.newtonsoft-json` e `com.unity.test-framework`. Depois, Unity IAP e o plugin AppLovin MAX.
 3. Mantenha `jogo/Assets/link.xml` (preserva os DTOs no IL2CPP). Adicione `MonetizationBootstrap` numa cena, chame
-   `Build(wallet, sink, installTime, persist)` depois de carregar o save e atribua `Resources/Config/ad_placements.json` e `iap_catalogo.json`.
+   `Build(wallet, sink, persist)` depois de carregar o save e atribua `Resources/Config/ad_placements.json` e `iap_catalogo.json`.
    Ao editar `design/monetizacao/*.json`, copie de novo para `Resources/Config/`.
 4. No Editor, os fakes simulam anúncios e compras. Para o build real, defina `ZS_APPLOVIN_MAX` e `ZS_UNITY_IAP` em
    *Player Settings → Scripting Define Symbols* e complete os TODOs de `UnityIapService` para a versão instalada.

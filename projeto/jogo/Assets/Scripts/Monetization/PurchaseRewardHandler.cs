@@ -5,9 +5,10 @@ using ZombieStreamer.Economy;
 namespace ZombieStreamer.Monetization
 {
     /// <summary>
-    /// "Ganhar item comprando": recebe compras confirmadas pela loja, entrega as recompensas do
-    /// catálogo exatamente uma vez, SALVA o progresso e só então confirma à loja (consume/acknowledge).
-    /// Se a entrega ou o save falharem, a compra fica pendente e a loja a reenvia no próximo startup.
+    /// "Ganhar comprando": a única forma, além da conquista no jogo, de obter algo PERMANENTE.
+    /// Fluxo: compra validada pela loja → entrega (uma vez por transação) → SALVA → confirma à loja.
+    /// Se a entrega ou o save falharem, a compra fica pendente e a loja a reenvia
+    /// (o Google Play reembolsa sozinho compras não confirmadas em 3 dias).
     /// </summary>
     public sealed class PurchaseRewardHandler : IDisposable
     {
@@ -40,24 +41,37 @@ namespace ZombieStreamer.Monetization
         {
             if (!_catalog.TryGetValue(productId, out var p))
                 return false;
-            if (p.type == ProductKind.NonConsumable && IsOwned(p))
-                return false;
-            return !(p.oncePerAccount && _wallet.HasPurchasedOnce(productId));
+            var ownedForever = p.type == ProductKind.NonConsumable || p.oncePerAccount;
+            return !(ownedForever && _wallet.HasPurchasedOnce(productId));
         }
 
-        public void Buy(string productId)
+        /// <param name="target">Item ("bunker:4") ou skill ("talk"), para produtos com requiresChoice.</param>
+        /// <param name="outfitIndex">Roupa escolhida, para produtos com requiresChoice.</param>
+        public void Buy(string productId, string target = null, int outfitIndex = -1)
         {
             if (!CanBuy(productId))
             {
                 OnPurchaseFailed(productId, PurchaseFailure.AlreadyOwned);
                 return;
             }
+            var product = _catalog[productId];
+            if (product.requiresChoice)
+            {
+                if (string.IsNullOrEmpty(target) && outfitIndex < 0)
+                {
+                    OnPurchaseFailed(productId, PurchaseFailure.MissingChoice);
+                    return;
+                }
+                // Salva a escolha ANTES de abrir a loja: se o app fechar no meio, a entrega ainda sabe o alvo.
+                _wallet.SetPendingChoice(new PendingChoice { productId = productId, target = target, outfitIndex = outfitIndex });
+                if (!_persist())
+                {
+                    OnPurchaseFailed(productId, PurchaseFailure.Unknown);
+                    return;
+                }
+            }
             _iap.Purchase(productId);
         }
-
-        private bool IsOwned(IapProductConfig p) =>
-            _wallet.HasPurchasedOnce(p.productId)
-            || (p.rewards.Count == 1 && p.rewards[0].type == RewardType.NoAds && _wallet.HasNoAds);
 
         private void OnPurchaseSucceeded(PurchaseReceipt receipt)
         {
@@ -67,18 +81,26 @@ namespace ZombieStreamer.Monetization
                 Log("iap_unknown_product", receipt.ProductId, receipt.TransactionId);
                 return;
             }
-            if (_wallet.Snapshot.processedTransactions.Contains(receipt.TransactionId))
+            if (_wallet.IsTransactionProcessed(receipt.TransactionId))
             {
-                // Já entregue e salvo antes (ex.: crash depois do save): só confirma.
+                // Já entregue antes. Garante que está salvo (o save anterior pode ter falhado) e só então confirma.
+                if (!_persist())
+                {
+                    Log("iap_save_failed", product.productId, receipt.TransactionId);
+                    return;
+                }
                 _iap.ConfirmDelivered(receipt);
                 return;
             }
 
-            // Restore de não-consumível em aparelho novo ou reinstalação: reaplica só os direitos permanentes,
-            // sem repetir bônus consumíveis (ex.: os tickets do bundle no-ads).
-            var isRestore = product.type == ProductKind.NonConsumable && _wallet.HasPurchasedOnce(product.productId);
-            var isRepeatOnce = product.oncePerAccount && _wallet.HasPurchasedOnce(product.productId);
-            var rewards = isRestore || isRepeatOnce ? PermanentOnly(product.rewards) : product.rewards;
+            var alreadyOwned = (product.type == ProductKind.NonConsumable || product.oncePerAccount)
+                && _wallet.HasPurchasedOnce(product.productId);
+            var rewards = ResolveRewards(product, alreadyOwned);
+            if (rewards == null)
+            {
+                Log("iap_missing_choice", product.productId, receipt.TransactionId);
+                return;
+            }
 
             try
             {
@@ -96,6 +118,8 @@ namespace ZombieStreamer.Monetization
                 return;
             }
 
+            if (product.requiresChoice)
+                _wallet.TakePendingChoice(product.productId);
             _wallet.MarkTransactionProcessed(receipt.TransactionId);
             if (product.oncePerAccount || product.type == ProductKind.NonConsumable)
                 _wallet.MarkPurchasedOnce(product.productId);
@@ -105,16 +129,36 @@ namespace ZombieStreamer.Monetization
                 Log("iap_save_failed", product.productId, receipt.TransactionId);
                 return;
             }
-            Log(isRestore ? "iap_restored" : "iap_delivered", product.productId, receipt.TransactionId);
+            Log(alreadyOwned ? "iap_restored" : "iap_delivered", product.productId, receipt.TransactionId);
             _iap.ConfirmDelivered(receipt);
             Delivered?.Invoke(product);
         }
 
-        private static List<RewardDefinition> PermanentOnly(List<RewardDefinition> rewards) =>
-            rewards.FindAll(r => r.type == RewardType.NoAds || r.type == RewardType.Outfit);
+        /// <summary>Null quando o produto exige escolha e ela se perdeu.</summary>
+        private IReadOnlyList<RewardDefinition> ResolveRewards(IapProductConfig product, bool alreadyOwned)
+        {
+            var source = product.rewards;
+            if (alreadyOwned)
+            {
+                // Restore/reenvio de algo já comprado: reaplica só posses permanentes de conta,
+                // sem repetir consumíveis (moedas, tickets).
+                source = source.FindAll(r => r.type == RewardType.Outfit || r.type == RewardType.PermanentIncomeMultiplier);
+            }
+            if (!product.requiresChoice)
+                return source;
+
+            var choice = _wallet.Snapshot.pendingPurchaseChoices.Find(c => c.productId == product.productId);
+            if (choice == null)
+                return null;
+            return source.ConvertAll(r => r.WithTarget(choice.target, choice.outfitIndex));
+        }
 
         private void OnPurchaseFailed(string productId, PurchaseFailure reason)
         {
+            // Compra desistida/recusada: descarta a escolha salva para não ser reaproveitada depois.
+            if ((reason == PurchaseFailure.Cancelled || reason == PurchaseFailure.PaymentDeclined
+                    || reason == PurchaseFailure.NotAvailable) && _wallet.TakePendingChoice(productId) != null)
+                _persist();
             _analytics.Log("iap_failed", new Dictionary<string, object>
             {
                 { "product", productId },

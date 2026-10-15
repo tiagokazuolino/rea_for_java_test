@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using ZombieStreamer.Economy;
 
 namespace ZombieStreamer.Monetization.Adapters
 {
@@ -8,7 +9,6 @@ namespace ZombieStreamer.Monetization.Adapters
     public sealed class FakeAdService : IAdService
     {
         public bool IsRewardedReady => true;
-        public bool IsInterstitialReady => true;
         public AdShowResult NextResult { get; set; } = AdShowResult.Completed;
 
         public void Initialize(Action onReady) => onReady?.Invoke();
@@ -18,14 +18,6 @@ namespace ZombieStreamer.Monetization.Adapters
             Debug.Log($"[FakeAds] rewarded '{placementId}' -> {NextResult}");
             onFinished?.Invoke(NextResult);
         }
-
-        public void ShowInterstitial(string placementId, Action<AdShowResult> onFinished)
-        {
-            Debug.Log($"[FakeAds] interstitial '{placementId}'");
-            onFinished?.Invoke(AdShowResult.Completed);
-        }
-
-        public void SetBannerVisible(bool visible) => Debug.Log($"[FakeAds] banner visible={visible}");
     }
 
     /// <summary>Loja simulada: toda compra é aprovada com um transactionId novo.</summary>
@@ -66,7 +58,6 @@ namespace ZombieStreamer.Monetization.Adapters
     public sealed class UnavailableAdService : IAdService
     {
         public bool IsRewardedReady => false;
-        public bool IsInterstitialReady => false;
 
         public void Initialize(Action onReady)
         {
@@ -75,8 +66,6 @@ namespace ZombieStreamer.Monetization.Adapters
         }
 
         public void ShowRewarded(string placementId, Action<AdShowResult> onFinished) => onFinished?.Invoke(AdShowResult.NotLoaded);
-        public void ShowInterstitial(string placementId, Action<AdShowResult> onFinished) => onFinished?.Invoke(AdShowResult.NotLoaded);
-        public void SetBannerVisible(bool visible) { }
     }
 
     /// <summary>Fallback de build sem loja configurada: toda compra falha.</summary>

@@ -3,18 +3,25 @@ using System.Collections.Generic;
 
 namespace ZombieStreamer.Economy
 {
-    /// <summary>Tipos de recompensa que qualquer fonte (compra, anúncio, quest, rank) pode entregar.</summary>
+    /// <summary>Tipos de recompensa. Veja <see cref="RewardRules"/> para o que é temporário e o que é permanente.</summary>
     public enum RewardType
     {
+        /// <summary>Valor padrão quando o JSON omite "type": sempre rejeitado.</summary>
+        None,
+
+        // Permanentes: só por conquista no jogo ou compra.
         Coins,
         Tickets,
-        NoAds,
-        Booster,
         Outfit,
-        OutfitNext,
-        AfkMultiplier,
-        ClaimMultiplier,
-        FreeUpgrade,
+        ItemLevels,
+        SkillLevels,
+        PermanentIncomeMultiplier,
+
+        // Temporários: os únicos que um anúncio (ou ticket) pode dar.
+        Booster,
+        OutfitTrial,
+        ItemTrial,
+        SkillTrial,
         PkRetry,
     }
 
@@ -25,6 +32,33 @@ namespace ZombieStreamer.Economy
         IncomeX10,
         AutoClick,
         DoubleCoin,
+    }
+
+    /// <summary>De onde veio a recompensa.</summary>
+    public enum RewardSource
+    {
+        /// <summary>Conquistado jogando: quests, rank, compras com moedas do jogo, vitória no PK.</summary>
+        Gameplay,
+        Purchase,
+        RewardedAd,
+        /// <summary>Ticket gasto no lugar de assistir o vídeo (mesma regra do anúncio).</summary>
+        Ticket,
+    }
+
+    /// <summary>Regra central do jogo: anúncio só dá vantagem temporária; posse permanente se conquista ou se compra.</summary>
+    public static class RewardRules
+    {
+        public static bool IsTemporary(RewardType type) =>
+            type == RewardType.Booster || type == RewardType.OutfitTrial || type == RewardType.ItemTrial
+            || type == RewardType.SkillTrial || type == RewardType.PkRetry;
+
+        public static bool IsAllowed(RewardType type, RewardSource source) =>
+            IsTemporary(type) || source == RewardSource.Gameplay || source == RewardSource.Purchase;
+
+        /// <summary>Tipos em que a UI precisa dizer o alvo (qual roupa, item ou skill).</summary>
+        public static bool RequiresTarget(RewardType type) =>
+            type == RewardType.OutfitTrial || type == RewardType.ItemTrial || type == RewardType.SkillTrial
+            || type == RewardType.Outfit || type == RewardType.ItemLevels || type == RewardType.SkillLevels;
     }
 
     /// <summary>Recompensa declarativa, lida dos JSON de design (iap_catalogo / ad_placements).</summary>
@@ -38,36 +72,31 @@ namespace ZombieStreamer.Economy
         public BoosterType booster;
         public int durationSeconds;
         public int outfitIndex = -1;
-        public double multiplier = 1;
-        /// <summary>Opções da roleta AFK; a UI sorteia uma e cria a recompensa com <see cref="WithMultiplier"/>.</summary>
-        public double[] multipliers;
+        /// <summary>Item ("sala:indice", ex. "bunker:4") ou skill ("talk").</summary>
         public string target;
         public int levels = 1;
+        public double multiplier = 1;
 
-        public RewardDefinition WithMultiplier(double value)
+        public bool HasTarget => type == RewardType.Outfit || type == RewardType.OutfitTrial
+            ? outfitIndex >= 0
+            : !string.IsNullOrEmpty(target);
+
+        /// <summary>Cópia com o alvo escolhido pelo jogador (roupa, item ou skill).</summary>
+        public RewardDefinition WithTarget(string newTarget = null, int newOutfitIndex = -1)
         {
             var copy = (RewardDefinition)MemberwiseClone();
-            copy.multiplier = value;
+            if (newTarget != null)
+                copy.target = newTarget;
+            if (newOutfitIndex >= 0)
+                copy.outfitIndex = newOutfitIndex;
             return copy;
         }
 
         public static RewardDefinition Coins(double amount) => new RewardDefinition { type = RewardType.Coins, amount = amount };
         public static RewardDefinition Tickets(int amount) => new RewardDefinition { type = RewardType.Tickets, amount = amount };
-        public static RewardDefinition NoAds() => new RewardDefinition { type = RewardType.NoAds };
 
         public static RewardDefinition Booster(BoosterType booster, int seconds) =>
             new RewardDefinition { type = RewardType.Booster, booster = booster, durationSeconds = seconds };
-    }
-
-    /// <summary>De onde veio a recompensa; usado em analytics e para regras (ex.: compra é sempre entregue).</summary>
-    public enum RewardSource
-    {
-        Purchase,
-        RewardedAd,
-        Ticket,
-        Quest,
-        RankUp,
-        Gift,
     }
 
     /// <summary>Resultado imutável do que foi efetivamente creditado.</summary>
@@ -81,5 +110,11 @@ namespace ZombieStreamer.Economy
 
         public RewardSource Source { get; }
         public IReadOnlyList<string> Applied { get; }
+    }
+
+    /// <summary>Tentativa de dar algo permanente por anúncio/ticket, ou recompensa malformada.</summary>
+    public sealed class RewardPolicyException : InvalidOperationException
+    {
+        public RewardPolicyException(string message) : base(message) { }
     }
 }

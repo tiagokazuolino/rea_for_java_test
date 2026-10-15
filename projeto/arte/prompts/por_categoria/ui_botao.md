@@ -13,8 +13,16 @@ nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ButtonBooster1.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 211x152px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 211x152px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ButtonBooster2`
@@ -24,8 +32,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ButtonBooster2.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 211x152px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 211x152px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ButtonBuy`
@@ -35,8 +51,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ButtonBuy.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 250x166px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 250x166px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ButtonGreen_2`
@@ -46,8 +70,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão green** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ButtonGreen_2.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 326x143px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 326x143px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ButtonToggle`
@@ -57,8 +89,16 @@ empty rounded button background, green variant, 9-slice friendly, glossy candy m
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ButtonToggle.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 62x63px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 62x63px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ButtonToggle`
@@ -68,8 +108,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ButtonToggle.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 35x36px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 35x36px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_1`
@@ -79,8 +127,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_1.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 211x152px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 211x152px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_2`
@@ -90,8 +146,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_2.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 128x128px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 128x128px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_3_0`
@@ -101,8 +165,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_3_0.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 128x114px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 128x114px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_Green`
@@ -112,8 +184,16 @@ empty rounded button background, purple variant, 9-slice friendly, glossy candy 
 - Novo asset: **Botão green** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_Green.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 324x141px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 324x141px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_blue`
@@ -123,8 +203,16 @@ empty rounded button background, green variant, 9-slice friendly, glossy candy m
 - Novo asset: **Botão blue** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_blue.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, blue variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 250x86px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 250x86px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, blue variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_blue_2`
@@ -134,8 +222,16 @@ empty rounded button background, blue variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão blue** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_blue_2.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, blue variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 324x141px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 324x141px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, blue variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_gray`
@@ -145,8 +241,16 @@ empty rounded button background, blue variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão gray** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_gray.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, gray variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 250x86px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 250x86px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, gray variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_gray`
@@ -156,8 +260,16 @@ empty rounded button background, gray variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão gray** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_gray.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, gray variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 324x141px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 324x141px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, gray variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_skip`
@@ -167,8 +279,16 @@ empty rounded button background, gray variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão skip** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Button_skip.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, skip variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 210x78px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 210x78px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, skip variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bt_blue`
@@ -178,8 +298,16 @@ empty rounded button background, skip variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão blue** (confiança media)
 - Salvar em: `arte/novos_sprites/base/bt_blue.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, blue variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 249x109px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 249x109px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, blue variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bt_cong`
@@ -189,8 +317,16 @@ empty rounded button background, blue variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão cong** (confiança media)
 - Salvar em: `arte/novos_sprites/base/bt_cong.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, cong variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 49x49px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 49x49px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, cong variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bt_green`
@@ -200,8 +336,16 @@ empty rounded button background, cong variant, 9-slice friendly, glossy candy mo
 - Novo asset: **Botão green** (confiança media)
 - Salvar em: `arte/novos_sprites/base/bt_green.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 214x151px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 214x151px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bt_green_1`
@@ -211,8 +355,16 @@ empty rounded button background, green variant, 9-slice friendly, glossy candy m
 - Novo asset: **Botão green** (confiança media)
 - Salvar em: `arte/novos_sprites/base/bt_green_1.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 214x150px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 214x150px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, green variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bt_red`
@@ -222,8 +374,16 @@ empty rounded button background, green variant, 9-slice friendly, glossy candy m
 - Novo asset: **Botão red** (confiança media)
 - Salvar em: `arte/novos_sprites/base/bt_red.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, red variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 36x36px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 36x36px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, red variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/bt_story`
@@ -233,8 +393,16 @@ empty rounded button background, red variant, 9-slice friendly, glossy candy mob
 - Novo asset: **Botão story** (confiança media)
 - Salvar em: `arte/novos_sprites/base/bt_story.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, story variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 901x106px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 901x106px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, story variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/button_square`
@@ -244,6 +412,14 @@ empty rounded button background, story variant, 9-slice friendly, glossy candy m
 - Novo asset: **Botão purple** (confiança media)
 - Salvar em: `arte/novos_sprites/base/button_square.png`
 
+Prompt (gerar do zero):
+
 ```
 empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 128x128px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same shape and corner radius so it still works as a 9-slice button, canvas 128x128px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty rounded button background, purple variant, 9-slice friendly, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```

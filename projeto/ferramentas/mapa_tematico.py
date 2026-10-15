@@ -279,6 +279,32 @@ EMOJI_NAMED = {
     "star-struck": "star-struck face", "f47c089b-6f19-42d0-8fd7-b52629521905-Photoroom_2": "pink heart",
 }
 
+# Prompt de transformação (modelos de edição de imagem: entra o sprite original + esta instrução).
+# O que MANTER do original em cada categoria; o resto deve ser redesenhado.
+TRANSFORM_KEEP = {
+    "personagem": "the same pose, body proportions, camera framing and expression intensity",
+    "pose_corpo_inteiro": "the exact same pose and body framing (it is one frame of an outfit pose set)",
+    "avatar": "the same bust framing, head angle and square crop",
+    "roupa_icone": "the same garment layout on an invisible mannequin and the same framing",
+    "movel_sala1": "the same isometric angle, footprint, size and shadow direction (it must fit the same spot in the room)",
+    "cenario": "the same camera perspective, horizon line and floor area (props are placed on top of it)",
+    "skill": "the same icon framing and level badge position",
+    "emoji_chat": "the same emotion and readability at small size",
+    "ui_monetizacao": "the same shape, button area and icon placement",
+    "ui_botao": "the same shape and corner radius so it still works as a 9-slice button",
+    "ui_moldura": "the same outline shape, border thickness and inner area so it still works as a 9-slice panel",
+    "ui_icone": "the same silhouette size and meaning",
+    "vfx": "the same shape, softness and alpha falloff",
+}
+
+TRANSFORM_TEMPLATE = (
+    "Transform this image into a NEW original asset for the mobile game '{title}'. "
+    "Keep {keep}, canvas {w}x{h}px and transparent background. "
+    "Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - "
+    "do not just recolor or trace. Target: {target}. "
+    "Style: {style}. Avoid: {negative}."
+)
+
 # Sprites de SDK/terceiros ou utilitários da engine: não recriar
 IGNORE_PREFIXES = (
     "AppleInAppPurchase", "ApplePay", "GooglePay", "Coda", "GooTest", "Stripe",

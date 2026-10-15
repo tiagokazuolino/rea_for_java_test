@@ -1,150 +1,100 @@
 {
- "_doc": "Placements de anúncio. kind: Rewarded (opcional, o jogador escolhe), Interstitial (automático, respeita pacing), Banner. ticketSkippable: um ticket substitui o vídeo e entrega a mesma recompensa.",
- "interstitialPacing": {
-  "minSecondsBetween": 90,
-  "minSecondsAfterRewarded": 60,
-  "graceSecondsAfterInstall": 300,
-  "maxPerSession": 8,
-  "onlyOnNaturalBreaks": true
- },
+ "_doc": "SÓ anúncios recompensados, iniciados pelo jogador. Todo prêmio de anúncio é TEMPORÁRIO (durationSeconds). Nada permanente (moedas, itens, níveis, roupas, tickets) sai de anúncio: isso só vem de conquista no jogo ou compra. Não existe intersticial nem banner. ticketSkippable: um ticket comprado substitui o vídeo e entrega o mesmo prêmio temporário. requiresChoice: a UI informa qual roupa/item/skill o jogador quer testar.",
  "placements": [
   {
    "id": "rv_booster_tap_x4",
-   "kind": "Rewarded",
    "ticketSkippable": true,
    "reward": {
     "type": "Booster",
     "booster": "TapX4",
     "durationSeconds": 180
    },
-   "cooldownSeconds": 0,
-   "original": "Buttonx4Tap"
+   "ui": "Botão x4 Toque"
   },
   {
    "id": "rv_booster_pass_x4",
-   "kind": "Rewarded",
    "ticketSkippable": true,
    "reward": {
     "type": "Booster",
     "booster": "PassiveX4",
     "durationSeconds": 180
    },
-   "original": "ButtonX4Pass"
+   "ui": "Botão x4 Passivo"
   },
   {
    "id": "rv_booster_income_x10",
-   "kind": "Rewarded",
    "ticketSkippable": true,
    "reward": {
     "type": "Booster",
     "booster": "IncomeX10",
     "durationSeconds": 60
    },
-   "original": "Buttonx10Income"
+   "cooldownSeconds": 300,
+   "ui": "Botão x10 Renda"
   },
   {
    "id": "rv_booster_autoclick",
-   "kind": "Rewarded",
    "ticketSkippable": true,
    "reward": {
     "type": "Booster",
     "booster": "AutoClick",
     "durationSeconds": 300
    },
-   "original": "BoosterAutoClickPopup"
+   "ui": "Botão Autoclique"
   },
   {
    "id": "rv_booster_double_coin",
-   "kind": "Rewarded",
    "ticketSkippable": true,
    "reward": {
     "type": "Booster",
     "booster": "DoubleCoin",
     "durationSeconds": 300
    },
-   "original": "Boosterx2HeartPopup"
+   "ui": "Botão Moeda x2"
   },
   {
-   "id": "rv_afk_multiplier",
-   "kind": "Rewarded",
+   "id": "rv_outfit_trial",
    "ticketSkippable": true,
+   "requiresChoice": true,
    "reward": {
-    "type": "AfkMultiplier",
-    "multipliers": [
-     2,
-     3,
-     5
-    ]
-   },
-   "original": "ClaimAfkPopup / AfkMultiplierSegment (roleta de multiplicador)"
-  },
-  {
-   "id": "rv_donation_x2",
-   "kind": "Rewarded",
-   "ticketSkippable": true,
-   "reward": {
-    "type": "ClaimMultiplier",
-    "multiplier": 2
-   },
-   "original": "ClaimDonatePopup (Claim X2)"
-  },
-  {
-   "id": "rv_free_gift",
-   "kind": "Rewarded",
-   "ticketSkippable": true,
-   "reward": {
-    "type": "Coins",
-    "coinsScaledToIncome": true,
-    "minutes": 30
+    "type": "OutfitTrial",
+    "durationSeconds": 1800
    },
    "cooldownSeconds": 600,
-   "original": "FreeGiftPopup"
+   "ui": "Provar roupa bloqueada por 30 min (com o boost dela)"
   },
   {
-   "id": "rv_upgrade_skill_free",
-   "kind": "Rewarded",
+   "id": "rv_item_trial",
    "ticketSkippable": true,
+   "requiresChoice": true,
    "reward": {
-    "type": "FreeUpgrade",
-    "target": "Skill",
-    "levels": 1
+    "type": "ItemTrial",
+    "levels": 10,
+    "durationSeconds": 900
    },
-   "original": "UI.VideoUnavailable 'Skill Upgrade'"
+   "cooldownSeconds": 600,
+   "ui": "Item +10 níveis por 15 min"
   },
   {
-   "id": "rv_rankup_bonus",
-   "kind": "Rewarded",
+   "id": "rv_skill_trial",
    "ticketSkippable": true,
+   "requiresChoice": true,
    "reward": {
-    "type": "ClaimMultiplier",
-    "multiplier": 3
+    "type": "SkillTrial",
+    "levels": 5,
+    "durationSeconds": 600
    },
-   "original": "RankUpPopup (Claim xN)"
+   "cooldownSeconds": 600,
+   "ui": "Skill +5 níveis por 10 min"
   },
   {
    "id": "rv_pk_retry",
-   "kind": "Rewarded",
    "ticketSkippable": true,
    "reward": {
-    "type": "PkRetry"
+    "type": "PkRetry",
+    "durationSeconds": 120
    },
-   "original": "PkWinLosePopup"
-  },
-  {
-   "id": "is_natural_break",
-   "kind": "Interstitial",
-   "triggers": [
-    "CloseShop",
-    "RoomChange",
-    "StoryEnd",
-    "PkEnd"
-   ],
-   "original": "'Ad break' + 'Interstitial pacing'"
-  },
-  {
-   "id": "banner_bottom",
-   "kind": "Banner",
-   "position": "Bottom"
+   "ui": "Revanche na Batalha de Horda (vale por 2 min)"
   }
  ]
 }

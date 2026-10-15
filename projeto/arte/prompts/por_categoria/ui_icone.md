@@ -13,8 +13,16 @@ nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, 
 - Novo asset: **small red notification badge with exclamation mark** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Alert.png`
 
+Prompt (gerar do zero):
+
 ```
 small red notification badge with exclamation mark, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 7x52px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 7x52px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: small red notification badge with exclamation mark, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Arrow`
@@ -24,8 +32,16 @@ small red notification badge with exclamation mark, glossy candy mobile game UI 
 - Novo asset: **chunky arrow pointing right** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Arrow.png`
 
+Prompt (gerar do zero):
+
 ```
 chunky arrow pointing right, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 14x13px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 14x13px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: chunky arrow pointing right, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Arrow`
@@ -35,8 +51,16 @@ chunky arrow pointing right, glossy candy mobile game UI element, rounded shapes
 - Novo asset: **chunky arrow pointing right** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Arrow.png`
 
+Prompt (gerar do zero):
+
 ```
 chunky arrow pointing right, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 48x47px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 48x47px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: chunky arrow pointing right, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ArrowLanguage`
@@ -46,8 +70,16 @@ chunky arrow pointing right, glossy candy mobile game UI element, rounded shapes
 - Novo asset: **small dropdown chevron** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/ArrowLanguage.png`
 
+Prompt (gerar do zero):
+
 ```
 small dropdown chevron, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 66x59px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 66x59px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: small dropdown chevron, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Artboard_1`
@@ -57,8 +89,16 @@ small dropdown chevron, glossy candy mobile game UI element, rounded shapes, bev
 - Novo asset: **game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and live badge** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Artboard_1.png`
 
+Prompt (gerar do zero):
+
 ```
 game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and live badge, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 857x422px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 857x422px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and live badge, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ButtonRankUp`
@@ -68,8 +108,16 @@ game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and
 - Novo asset: **speech-bubble shaped green button** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/ButtonRankUp.png`
 
+Prompt (gerar do zero):
+
 ```
 speech-bubble shaped green button, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 135x60px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 135x60px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: speech-bubble shaped green button, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_VS`
@@ -79,8 +127,16 @@ speech-bubble shaped green button, glossy candy mobile game UI element, rounded 
 - Novo asset: **round button with 'VS' burst and zombie hands** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Button_VS.png`
 
+Prompt (gerar do zero):
+
 ```
 round button with 'VS' burst and zombie hands, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 128x128px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 128x128px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: round button with 'VS' burst and zombie hands, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Button_exit`
@@ -90,8 +146,16 @@ round button with 'VS' burst and zombie hands, glossy candy mobile game UI eleme
 - Novo asset: **round close X button** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Button_exit.png`
 
+Prompt (gerar do zero):
+
 ```
 round close X button, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 124x124px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 124x124px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: round close X button, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Checkmark`
@@ -101,8 +165,16 @@ round close X button, glossy candy mobile game UI element, rounded shapes, bevel
 - Novo asset: **bold check mark** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Checkmark.png`
 
+Prompt (gerar do zero):
+
 ```
 bold check mark, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 27x23px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 27x23px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: bold check mark, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconAuto`
@@ -112,8 +184,16 @@ bold check mark, glossy candy mobile game UI element, rounded shapes, bevel and 
 - Novo asset: **Ícone 'Auto'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconAuto.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Auto', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 131x115px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 131x115px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Auto', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconAutoClick`
@@ -123,8 +203,16 @@ icon representing 'Auto', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **tapping hand with 'Auto'** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/IconAutoClick.png`
 
+Prompt (gerar do zero):
+
 ```
 tapping hand with 'Auto', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 58x54px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 58x54px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: tapping hand with 'Auto', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconLock`
@@ -134,8 +222,16 @@ tapping hand with 'Auto', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **Ícone 'Lock'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconLock.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Lock', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 70x78px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 70x78px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Lock', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconMusic`
@@ -145,8 +241,16 @@ icon representing 'Lock', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **Ícone 'Music'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconMusic.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Music', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 85x97px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 85x97px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Music', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconNoAd`
@@ -156,8 +260,16 @@ icon representing 'Music', glossy 3D-style game icon, bold outline, transparent 
 - Novo asset: **crossed-out ADS badge** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/IconNoAd.png`
 
+Prompt (gerar do zero):
+
 ```
 crossed-out ADS badge, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 210x178px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 210x178px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: crossed-out ADS badge, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconNoInternet`
@@ -167,8 +279,16 @@ crossed-out ADS badge, glossy 3D-style game icon, bold outline, transparent back
 - Novo asset: **Ícone 'NoInternet'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconNoInternet.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'NoInternet', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 170x153px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 170x153px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'NoInternet', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconSound`
@@ -178,8 +298,16 @@ icon representing 'NoInternet', glossy 3D-style game icon, bold outline, transpa
 - Novo asset: **Ícone 'Sound'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconSound.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Sound', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 89x89px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 89x89px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Sound', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconStar`
@@ -189,8 +317,16 @@ icon representing 'Sound', glossy 3D-style game icon, bold outline, transparent 
 - Novo asset: **Ícone 'Star'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconStar.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Star', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 101x93px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 101x93px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Star', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/IconVibration`
@@ -200,8 +336,16 @@ icon representing 'Star', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **Ícone 'Vibration'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/IconVibration.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Vibration', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 74x83px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 74x83px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Vibration', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Arrow`
@@ -211,8 +355,16 @@ icon representing 'Vibration', glossy 3D-style game icon, bold outline, transpar
 - Novo asset: **Ícone 'Arrow'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Arrow.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Arrow', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 17x15px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 17x15px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Arrow', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Coin_2`
@@ -222,8 +374,16 @@ icon representing 'Arrow', glossy 3D-style game icon, bold outline, transparent 
 - Novo asset: **Ícone 'Coin 2'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Coin_2.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Coin 2', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 56x56px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 56x56px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Coin 2', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Coin_3`
@@ -233,8 +393,16 @@ icon representing 'Coin 2', glossy 3D-style game icon, bold outline, transparent
 - Novo asset: **Ícone 'Coin 3'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Coin_3.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Coin 3', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 83x83px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 83x83px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Coin 3', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Coin_3_1`
@@ -244,8 +412,16 @@ icon representing 'Coin 3', glossy 3D-style game icon, bold outline, transparent
 - Novo asset: **Ícone 'Coin 3 1'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Coin_3_1.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Coin 3 1', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 83x83px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 83x83px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Coin 3 1', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Eye`
@@ -255,8 +431,16 @@ icon representing 'Coin 3 1', glossy 3D-style game icon, bold outline, transpare
 - Novo asset: **Ícone 'Eye'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Eye.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Eye', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 44x24px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 44x24px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Eye', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Follower`
@@ -266,8 +450,16 @@ icon representing 'Eye', glossy 3D-style game icon, bold outline, transparent ba
 - Novo asset: **group silhouette icon with survivor bandana** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Icon_Follower.png`
 
+Prompt (gerar do zero):
+
 ```
 group silhouette icon with survivor bandana, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 32x24px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 32x24px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: group silhouette icon with survivor bandana, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Follower2`
@@ -277,8 +469,16 @@ group silhouette icon with survivor bandana, glossy 3D-style game icon, bold out
 - Novo asset: **group silhouette icon** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Icon_Follower2.png`
 
+Prompt (gerar do zero):
+
 ```
 group silhouette icon, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 32x24px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 32x24px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: group silhouette icon, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_House`
@@ -288,8 +488,16 @@ group silhouette icon, glossy 3D-style game icon, bold outline, transparent back
 - Novo asset: **Ícone 'House'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_House.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'House', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 67x96px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 67x96px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'House', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Letter`
@@ -299,8 +507,16 @@ icon representing 'House', glossy 3D-style game icon, bold outline, transparent 
 - Novo asset: **Ícone 'Letter'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Letter.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Letter', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 64x47px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 64x47px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Letter', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_Setting`
@@ -310,8 +526,16 @@ icon representing 'Letter', glossy 3D-style game icon, bold outline, transparent
 - Novo asset: **Ícone 'Setting'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/Icon_Setting.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'Setting', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 64x67px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 64x67px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'Setting', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Icon_View`
@@ -321,8 +545,16 @@ icon representing 'Setting', glossy 3D-style game icon, bold outline, transparen
 - Novo asset: **eye icon with zombie stitches** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Icon_View.png`
 
+Prompt (gerar do zero):
+
 ```
 eye icon with zombie stitches, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 27x28px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 27x28px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: eye icon with zombie stitches, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Light`
@@ -332,8 +564,16 @@ eye icon with zombie stitches, glossy 3D-style game icon, bold outline, transpar
 - Novo asset: **radial light rays** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Light.png`
 
+Prompt (gerar do zero):
+
 ```
 radial light rays, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 633x976px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 633x976px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: radial light rays, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/Logo_2x`
@@ -343,8 +583,16 @@ radial light rays, glossy candy mobile game UI element, rounded shapes, bevel an
 - Novo asset: **game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and live badge** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/Logo_2x.png`
 
+Prompt (gerar do zero):
+
 ```
 game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and live badge, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 358x36px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 358x36px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and live badge, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/StarOff`
@@ -354,8 +602,16 @@ game logo text 'Zombie Streamer: Idle Survival', bubbly letters, zombie hand and
 - Novo asset: **empty grey star** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/StarOff.png`
 
+Prompt (gerar do zero):
+
 ```
 empty grey star, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 114x110px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 114x110px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: empty grey star, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/StarOn`
@@ -365,8 +621,16 @@ empty grey star, glossy candy mobile game UI element, rounded shapes, bevel and 
 - Novo asset: **filled golden star** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/StarOn.png`
 
+Prompt (gerar do zero):
+
 ```
 filled golden star, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 118x114px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 118x114px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: filled golden star, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ThankYou`
@@ -376,8 +640,16 @@ filled golden star, glossy candy mobile game UI element, rounded shapes, bevel a
 - Novo asset: **cute thank-you sticker with Mia waving** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/ThankYou.png`
 
+Prompt (gerar do zero):
+
 ```
 cute thank-you sticker with Mia waving, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 461x385px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 461x385px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: cute thank-you sticker with Mia waving, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/eye_view`
@@ -387,8 +659,16 @@ cute thank-you sticker with Mia waving, glossy candy mobile game UI element, rou
 - Novo asset: **eye icon** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/eye_view.png`
 
+Prompt (gerar do zero):
+
 ```
 eye icon, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 474x346px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 474x346px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: eye icon, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_clothes`
@@ -398,8 +678,16 @@ eye icon, glossy candy mobile game UI element, rounded shapes, bevel and inner g
 - Novo asset: **Ícone 'clothes'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_clothes.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'clothes', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 74x88px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 74x88px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'clothes', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_hand`
@@ -409,8 +697,16 @@ icon representing 'clothes', glossy 3D-style game icon, bold outline, transparen
 - Novo asset: **Ícone 'hand'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_hand.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'hand', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 183x176px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 183x176px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'hand', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_hand`
@@ -420,8 +716,16 @@ icon representing 'hand', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **Ícone 'hand'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_hand.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'hand', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 133x92px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 133x92px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'hand', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_hand2`
@@ -431,8 +735,16 @@ icon representing 'hand', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **Ícone 'hand2'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_hand2.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'hand2', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 190x171px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 190x171px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'hand2', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_pencil`
@@ -442,8 +754,16 @@ icon representing 'hand2', glossy 3D-style game icon, bold outline, transparent 
 - Novo asset: **Ícone 'pencil'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_pencil.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'pencil', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 40x41px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 40x41px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'pencil', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_repair`
@@ -453,8 +773,16 @@ icon representing 'pencil', glossy 3D-style game icon, bold outline, transparent
 - Novo asset: **Ícone 'repair'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_repair.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'repair', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 105x84px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 105x84px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'repair', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_skill_1`
@@ -464,8 +792,16 @@ icon representing 'repair', glossy 3D-style game icon, bold outline, transparent
 - Novo asset: **Ícone 'skill 1'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_skill_1.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'skill 1', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 82x93px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 82x93px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'skill 1', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/ic_tim`
@@ -475,8 +811,16 @@ icon representing 'skill 1', glossy 3D-style game icon, bold outline, transparen
 - Novo asset: **Ícone 'tim'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/ic_tim.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'tim', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 115x91px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 115x91px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'tim', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/iconReducePrice`
@@ -486,8 +830,16 @@ icon representing 'tim', glossy 3D-style game icon, bold outline, transparent ba
 - Novo asset: **Ícone 'ReducePrice'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/iconReducePrice.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'ReducePrice', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 97x108px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 97x108px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'ReducePrice', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/icon_shop`
@@ -497,8 +849,16 @@ icon representing 'ReducePrice', glossy 3D-style game icon, bold outline, transp
 - Novo asset: **Ícone 'shop'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/icon_shop.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'shop', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 81x81px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 81x81px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'shop', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/icon_task_1`
@@ -508,8 +868,16 @@ icon representing 'shop', glossy 3D-style game icon, bold outline, transparent b
 - Novo asset: **Ícone 'task 1'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/icon_task_1.png`
 
+Prompt (gerar do zero):
+
 ```
 icon representing 'task 1', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 91x101px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 91x101px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: icon representing 'task 1', glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/image_1_1`
@@ -519,8 +887,16 @@ icon representing 'task 1', glossy 3D-style game icon, bold outline, transparent
 - Novo asset: **promo sticker with Mia and coins** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/image_1_1.png`
 
+Prompt (gerar do zero):
+
 ```
 promo sticker with Mia and coins, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 837x496px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 837x496px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: promo sticker with Mia and coins, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/lightt_1`
@@ -530,8 +906,16 @@ promo sticker with Mia and coins, glossy candy mobile game UI element, rounded s
 - Novo asset: **soft white glow flare** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/lightt_1.png`
 
+Prompt (gerar do zero):
+
 ```
 soft white glow flare, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 245x240px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 245x240px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: soft white glow flare, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/loading_2x`
@@ -541,8 +925,16 @@ soft white glow flare, glossy candy mobile game UI element, rounded shapes, beve
 - Novo asset: **circular loading spinner made of tiny zombie hands** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/loading_2x.png`
 
+Prompt (gerar do zero):
+
 ```
 circular loading spinner made of tiny zombie hands, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 64x64px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 64x64px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: circular loading spinner made of tiny zombie hands, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/newRoom`
@@ -552,8 +944,16 @@ circular loading spinner made of tiny zombie hands, glossy candy mobile game UI 
 - Novo asset: **door with 'NEW' badge and barricade** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/newRoom.png`
 
+Prompt (gerar do zero):
+
 ```
 door with 'NEW' badge and barricade, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 87x125px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 87x125px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: door with 'NEW' badge and barricade, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/seagull`
@@ -563,6 +963,14 @@ door with 'NEW' badge and barricade, glossy candy mobile game UI element, rounde
 - Novo asset: **cartoon seagull flying** (confiança alta)
 - Salvar em: `arte/novos_sprites/base/seagull.png`
 
+Prompt (gerar do zero):
+
 ```
 cartoon seagull flying, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 475x454px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 475x454px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: cartoon seagull flying, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```

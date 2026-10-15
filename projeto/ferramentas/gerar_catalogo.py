@@ -41,6 +41,7 @@ class Entry:
     funcao_original: str
     novo_asset: str
     prompt: str
+    prompt_transformacao: str
     negativo: str
     confianca: str
     observacao: str
@@ -211,13 +212,16 @@ def build(inventory: list) -> list:
         cat, orig, new, subject, conf = classify(item)
         w, h = item["largura"], item["altura"]
         prompt = "" if cat == "ignorar" else f"{subject}. {M.STYLE}. {size_hint(w, h)}"
+        transform = "" if cat == "ignorar" else M.TRANSFORM_TEMPLATE.format(
+            title=M.GAME_TITLE, keep=M.TRANSFORM_KEEP.get(cat, "the same framing and size"),
+            w=w, h=h, target=subject, style=M.STYLE, negative=M.NEGATIVE)
         note = {"ignorar": "Não recriar: asset de SDK/engine.",
                 "baixa": "Conferir o original para entender a função antes de gerar."}.get(
             cat if cat == "ignorar" else conf, "")
         entries.append(Entry(
             id=f"{item['origem']}/{normalize(item['nome']) or 'sem_nome'}", arquivo_original=item["arquivo"],
             origem=item["origem"], largura=w, altura=h, categoria=cat, funcao_original=orig,
-            novo_asset=new, prompt=prompt, negativo="" if cat == "ignorar" else M.NEGATIVE,
+            novo_asset=new, prompt=prompt, prompt_transformacao=transform, negativo="" if cat == "ignorar" else M.NEGATIVE,
             confianca=conf, observacao=note))
     return sorted(entries, key=lambda e: (e.categoria, e.id))
 
@@ -250,7 +254,9 @@ def write_outputs(entries: list, out: Path) -> None:
             if e.observacao:
                 lines.append(f"- Obs.: {e.observacao}")
             if e.prompt:
-                lines += ["", "```", e.prompt, "```"]
+                lines += ["", "Prompt (gerar do zero):", "", "```", e.prompt, "```",
+                          "", "Prompt de transformação (enviar junto com o sprite original):", "",
+                          "```", e.prompt_transformacao, "```"]
             lines.append("")
         (cat_dir / f"{cat}.md").write_text("\n".join(lines), encoding="utf-8")
     counts = {k: len(v) for k, v in sorted(groups.items())}

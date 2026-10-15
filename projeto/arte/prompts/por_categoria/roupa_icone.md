@@ -13,8 +13,16 @@ nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, 
 - Novo asset: **Ícone do traje 'Torcida com Taco'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin10.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Torcida com Taco': cheer jacket and long pleated skirt, baseball bat with pom-pom, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 152x237px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 152x237px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Torcida com Taco': cheer jacket and long pleated skirt, baseball bat with pom-pom, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin11`
@@ -24,8 +32,16 @@ outfit icon of 'Torcida com Taco': cheer jacket and long pleated skirt, baseball
 - Novo asset: **Ícone do traje 'Macacão de Mecânica'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin11.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Macacão de Mecânica': black mechanic jumpsuit with bunny-ear headband, wrench, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 203x235px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 203x235px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Macacão de Mecânica': black mechanic jumpsuit with bunny-ear headband, wrench, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin12`
@@ -35,8 +51,16 @@ outfit icon of 'Macacão de Mecânica': black mechanic jumpsuit with bunny-ear h
 - Novo asset: **Ícone do traje 'Caçadora Noturna'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin12.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Caçadora Noturna': dark hooded coat with bat-wing cape, lantern, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 256x210px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 256x210px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Caçadora Noturna': dark hooded coat with bat-wing cape, lantern, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin12New`
@@ -46,8 +70,16 @@ outfit icon of 'Caçadora Noturna': dark hooded coat with bat-wing cape, lantern
 - Novo asset: **Ícone do traje 'Motoqueira de Resgate'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin12New.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Motoqueira de Resgate': padded pink and black racing suit, helmet under arm, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 212x223px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 212x223px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Motoqueira de Resgate': padded pink and black racing suit, helmet under arm, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin13`
@@ -57,8 +89,16 @@ outfit icon of 'Motoqueira de Resgate': padded pink and black racing suit, helme
 - Novo asset: **Ícone do traje 'Suéter Aconchegante'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin13.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Suéter Aconchegante': long pink knitted sweater, jeans, mug of cocoa, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 256x250px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 256x250px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Suéter Aconchegante': long pink knitted sweater, jeans, mug of cocoa, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin14`
@@ -68,8 +108,16 @@ outfit icon of 'Suéter Aconchegante': long pink knitted sweater, jeans, mug of 
 - Novo asset: **Ícone do traje 'Anjo da Guarda'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin14.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Anjo da Guarda': white long coat, costume wings, healing kit, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 207x246px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 207x246px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Anjo da Guarda': white long coat, costume wings, healing kit, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin15`
@@ -79,8 +127,16 @@ outfit icon of 'Anjo da Guarda': white long coat, costume wings, healing kit, di
 - Novo asset: **Ícone do traje 'Rockstar Incendiária'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin15.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Rockstar Incendiária': black band t-shirt, long red plaid skirt, electric guitar, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 173x227px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 173x227px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Rockstar Incendiária': black band t-shirt, long red plaid skirt, electric guitar, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin16`
@@ -90,8 +146,16 @@ outfit icon of 'Rockstar Incendiária': black band t-shirt, long red plaid skirt
 - Novo asset: **Ícone do traje 'Verão Pós-Apocalipse'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin16.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Verão Pós-Apocalipse': short-sleeve shirt, board shorts, sun hat, water canteen, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 221x243px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 221x243px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Verão Pós-Apocalipse': short-sleeve shirt, board shorts, sun hat, water canteen, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin17`
@@ -101,8 +165,16 @@ outfit icon of 'Verão Pós-Apocalipse': short-sleeve shirt, board shorts, sun h
 - Novo asset: **Ícone do traje 'Agente Misteriosa'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin17.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Agente Misteriosa': black turtleneck, long trench coat, dossier folder, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 162x237px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 162x237px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Agente Misteriosa': black turtleneck, long trench coat, dossier folder, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin18`
@@ -112,8 +184,16 @@ outfit icon of 'Agente Misteriosa': black turtleneck, long trench coat, dossier 
 - Novo asset: **Ícone do traje 'Cientista da Cura'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin18.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Cientista da Cura': lab coat over office suit, glowing antidote vial, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 197x224px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 197x224px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Cientista da Cura': lab coat over office suit, glowing antidote vial, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin19`
@@ -123,8 +203,16 @@ outfit icon of 'Cientista da Cura': lab coat over office suit, glowing antidote 
 - Novo asset: **Ícone do traje 'Armadura Coração'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin19.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Armadura Coração': pink padded armor with heart motifs over sailor top, heart shield, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 215x239px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 215x239px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Armadura Coração': pink padded armor with heart motifs over sailor top, heart shield, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin2`
@@ -134,8 +222,16 @@ outfit icon of 'Armadura Coração': pink padded armor with heart motifs over sa
 - Novo asset: **Ícone do traje 'Uniforme da Resistência'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin2.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Uniforme da Resistência': sailor-style uniform with long navy skirt, armband, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 149x217px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 149x217px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Uniforme da Resistência': sailor-style uniform with long navy skirt, armband, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin20`
@@ -145,8 +241,16 @@ outfit icon of 'Uniforme da Resistência': sailor-style uniform with long navy s
 - Novo asset: **Ícone do traje 'Gala do Fim do Mundo'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin20.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Gala do Fim do Mundo': elegant long evening gown with leather jacket, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 200x252px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 200x252px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Gala do Fim do Mundo': elegant long evening gown with leather jacket, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin21`
@@ -156,8 +260,16 @@ outfit icon of 'Gala do Fim do Mundo': elegant long evening gown with leather ja
 - Novo asset: **Ícone do traje 'Dama do Bunker'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin21.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Dama do Bunker': light blue long dress with utility belt, umbrella as weapon, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 233x225px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 233x225px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Dama do Bunker': light blue long dress with utility belt, umbrella as weapon, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin22`
@@ -167,8 +279,16 @@ outfit icon of 'Dama do Bunker': light blue long dress with utility belt, umbrel
 - Novo asset: **Ícone do traje 'Kigurumi de Zumbi'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin22.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Kigurumi de Zumbi': cozy green zombie onesie with hood, slippers, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 150x251px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 150x251px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Kigurumi de Zumbi': cozy green zombie onesie with hood, slippers, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin23`
@@ -178,8 +298,16 @@ outfit icon of 'Kigurumi de Zumbi': cozy green zombie onesie with hood, slippers
 - Novo asset: **Ícone do traje 'Estrela em Ascensão'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin23.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Estrela em Ascensão': sparkly navy idol jacket and long skirt, star microphone, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 220x232px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 220x232px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Estrela em Ascensão': sparkly navy idol jacket and long skirt, star microphone, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin24`
@@ -189,8 +317,16 @@ outfit icon of 'Estrela em Ascensão': sparkly navy idol jacket and long skirt, 
 - Novo asset: **Ícone do traje 'Halloween Caça-Zumbis'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin24.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Halloween Caça-Zumbis': witch-hunter costume, pumpkin lantern, long cape, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 250x198px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 250x198px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Halloween Caça-Zumbis': witch-hunter costume, pumpkin lantern, long cape, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin3`
@@ -200,8 +336,16 @@ outfit icon of 'Halloween Caça-Zumbis': witch-hunter costume, pumpkin lantern, 
 - Novo asset: **Ícone do traje 'Verão de Vigia'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin3.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Verão de Vigia': yellow short-sleeve shirt, white cargo shorts over leggings, sun visor, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 140x217px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 140x217px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Verão de Vigia': yellow short-sleeve shirt, white cargo shorts over leggings, sun visor, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin4`
@@ -211,8 +355,16 @@ outfit icon of 'Verão de Vigia': yellow short-sleeve shirt, white cargo shorts 
 - Novo asset: **Ícone do traje 'Exploradora Urbana'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin4.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Exploradora Urbana': black t-shirt, khaki cargo pants, utility belt, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 146x227px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 146x227px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Exploradora Urbana': black t-shirt, khaki cargo pants, utility belt, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin5`
@@ -222,8 +374,16 @@ outfit icon of 'Exploradora Urbana': black t-shirt, khaki cargo pants, utility b
 - Novo asset: **Ícone do traje 'Exploradora Universitária'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin5.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Exploradora Universitária': white shirt with pink bow, long pink plaid skirt, flashlight, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 163x223px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 163x223px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Exploradora Universitária': white shirt with pink bow, long pink plaid skirt, flashlight, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin6`
@@ -233,8 +393,16 @@ outfit icon of 'Exploradora Universitária': white shirt with pink bow, long pin
 - Novo asset: **Ícone do traje 'Avental de Barricada'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin6.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Avental de Barricada': black and white housekeeper dress with long skirt, tool belt, hammer, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 203x237px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 203x237px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Avental de Barricada': black and white housekeeper dress with long skirt, tool belt, hammer, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin7`
@@ -244,8 +412,16 @@ outfit icon of 'Avental de Barricada': black and white housekeeper dress with lo
 - Novo asset: **Ícone do traje 'Corredora Parkour'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin7.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Corredora Parkour': sports jacket, track pants, cap, fingerless gloves, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 249x256px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 249x256px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Corredora Parkour': sports jacket, track pants, cap, fingerless gloves, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin8`
@@ -255,8 +431,16 @@ outfit icon of 'Corredora Parkour': sports jacket, track pants, cap, fingerless 
 - Novo asset: **Ícone do traje 'Médica de Campo'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin8.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Médica de Campo': long-sleeve medic uniform, red cross armband, stethoscope, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 156x224px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 156x224px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Médica de Campo': long-sleeve medic uniform, red cross armband, stethoscope, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/skin9`
@@ -266,6 +450,14 @@ outfit icon of 'Médica de Campo': long-sleeve medic uniform, red cross armband,
 - Novo asset: **Ícone do traje 'Streamer Kawaii'** (confiança media)
 - Salvar em: `arte/novos_sprites/base/skin9.png`
 
+Prompt (gerar do zero):
+
 ```
 outfit icon of 'Streamer Kawaii': pink frilly long dress with protective padded jacket, LED headset, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 180x231px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same garment layout on an invisible mannequin and the same framing, canvas 180x231px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: outfit icon of 'Streamer Kawaii': pink frilly long dress with protective padded jacket, LED headset, displayed on invisible mannequin, no body, glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```

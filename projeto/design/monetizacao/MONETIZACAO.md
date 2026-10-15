@@ -1,97 +1,110 @@
-# Monetização: ganhar itens comprando ou assistindo anúncios
+# Monetização: assista para testar, conquiste ou compre para ter
 
-Modelo híbrido, igual ao original: **IAA** (anúncios) + **IAP** (compras). Toda recompensa, venha de onde vier, passa
-pelo mesmo serviço (`RewardGranter`). Por isso uma recompensa nova é só uma linha de JSON.
+## As 3 regras
 
-```
-          ┌──────────── iap_catalogo.json ───────────┐     ┌────────── ad_placements.json ──────────┐
-          │ productId → [recompensas]                │     │ placementId → recompensa + regras      │
-          └──────────────────┬───────────────────────┘     └──────────────────┬─────────────────────┘
- Loja (Unity IAP) ──► PurchaseRewardHandler                     RewardedOfferService ◄── botão na UI
-                      • idempotente por transactionId           • tem ticket? gasta 1 ticket
-                      • confirma à loja só após entregar         • senão mostra vídeo (AppLovin MAX)
-                      └──────────────┐                ┌─────────• cooldown por placement
-                                     ▼                ▼
-                                   RewardGranter ──► PlayerWallet (moedas, tickets, no-ads, roupas)
-                                                 └─► IGameplayRewardSink (boosters, upgrades, PK)
- InterstitialPacer: intersticial só em pausa natural, com intervalo mínimo, limite por sessão e nunca para quem tem no-ads.
-```
+1. **Nenhum anúncio aparece sozinho.** Não existe intersticial nem banner. O vídeo só toca quando o jogador
+   toca num botão "assistir".
+2. **Anúncio só dá vantagem TEMPORÁRIA.** Boosters, roupa em teste, item ou skill com níveis extras por alguns
+   minutos. Quando o tempo acaba, tudo volta ao que era.
+3. **Posse permanente só por conquista ou compra.** Moedas, roupas, níveis de item, níveis de skill e tickets
+   nunca vêm de anúncio. Vêm de jogar (quests, rank, tocar, idle) ou de comprar na loja.
 
-## 1. Ganhar com anúncios (rewarded, sempre opcional)
+Diferente do original, que mostra intersticial a cada pausa e dá moedas e upgrades por vídeo.
 
-| placementId | Botão | Recompensa | Ticket pula? |
+## Como as regras são garantidas no código
+
+| Camada | Garantia |
+|---|---|
+| `RewardRules` (`Economy/Rewards.cs`) | Lista o que é temporário. Permanente só com origem `Gameplay` ou `Purchase` |
+| `RewardGranter` | Valida o lote inteiro antes de aplicar. Se um anúncio tentar dar algo permanente, lança `RewardPolicyException` e nada é entregue |
+| `MonetizationConfigValidator` | No startup, recusa o `ad_placements.json` se algum placement der algo permanente ou não tiver duração |
+| `RewardedOfferService` | Recusa placements não temporários já no construtor |
+| `TemporaryEffects` | Guarda os efeitos com prazo no save. O gameplay **consulta** os efeitos e nunca altera nível ou posse real por causa deles |
+| `IAdService` | Só tem `ShowRewarded`. Não existe API de intersticial ou banner para alguém chamar por engano |
+
+## Assistir e ganhar temporariamente (`ad_placements.json`)
+
+| placementId | O que o jogador ganha | Duração | Cooldown |
 |---|---|---|---|
-| `rv_booster_tap_x4` | x4 Toque | Toque ×4 por 180 s | sim |
-| `rv_booster_pass_x4` | x4 Passivo | Renda passiva ×4 por 180 s | sim |
-| `rv_booster_income_x10` | x10 Renda | Renda ×10 por 60 s | sim |
-| `rv_booster_autoclick` | Autoclique | Autoclique por 300 s | sim |
-| `rv_booster_double_coin` | Moeda x2 | Moedas ×2 por 300 s | sim |
-| `rv_afk_multiplier` | Presente AFK | Roleta ×2 / ×3 / ×5 sobre o ganho offline | sim |
-| `rv_donation_x2` | Doação x2 | Dobra a doação coletada | sim |
-| `rv_free_gift` | Presente grátis | 30 min de renda (cooldown de 10 min) | sim |
-| `rv_upgrade_skill_free` | Upgrade grátis | +1 nível de skill | sim |
-| `rv_rankup_bonus` | Subiu de rank | Recompensa do rank ×3 | sim |
-| `rv_pk_retry` | Perdeu a batalha | Tentar de novo | sim |
+| `rv_booster_tap_x4` | Toque ×4 | 3 min | — |
+| `rv_booster_pass_x4` | Renda passiva ×4 | 3 min | — |
+| `rv_booster_income_x10` | Renda ×10 | 1 min | 5 min |
+| `rv_booster_autoclick` | Autoclique | 5 min | — |
+| `rv_booster_double_coin` | Moedas ×2 por toque | 5 min | — |
+| `rv_outfit_trial` | **Vestir uma roupa bloqueada**, com o boost dela | 30 min | 10 min |
+| `rv_item_trial` | **Item escolhido +10 níveis** | 15 min | 10 min |
+| `rv_skill_trial` | **Skill escolhida +5 níveis** | 10 min | 10 min |
+| `rv_pk_retry` | Uma revanche na Batalha de Horda | vale por 2 min | — |
 
-**Intersticial** (`is_natural_break`): só em pausas naturais (fechar loja, trocar de sala, fim de história ou PK), 90 s entre
-intersticiais, 60 s depois de um rewarded, nenhum nos primeiros 5 min após instalar e no máximo 8 por sessão. Mostre o aviso
-"Intervalo comercial" antes, como o "Ad break" do original. **Banner** fica embaixo, escondido para quem comprou no-ads.
+- As moedas ganhas **durante** um booster são conquistadas pelo jogador, tocando ou no idle. O anúncio só acelera por um tempo.
+- **Ticket:** quem comprou tickets pode gastar 1 no lugar do vídeo e recebe o mesmo prêmio temporário.
+- Boosters iguais acumulam tempo (assistir 2× o x4 Toque dá 6 min).
+- Só uma roupa em teste por vez.
 
-## 2. Ganhar comprando (IAP)
+### Quando o teste acaba
+
+`TemporaryEffects.Expired` dispara e a UI mostra: *"Gostou da roupa? Conquiste por X moedas ou compre agora"*.
+O botão "comprar" abre `zs_outfit_unlock` com a roupa testada. Para item testado, o mesmo vale com `zs_item_levels_10`.
+É aqui que o teste vira venda, sem dar nada de graça.
+
+## Conquistar jogando (origem `Gameplay`)
+
+Tocar, renda idle, doações do chat, quests, subir de rank, presente AFK (só o ganho real, **sem** multiplicador por vídeo),
+vitória no PK e comprar itens, níveis e roupas com moedas do jogo.
+O código do gameplay chama `RewardGranter.Grant(..., RewardSource.Gameplay)`.
+
+## Comprar (`iap_catalogo.json`)
 
 | productId | Tipo | Conteúdo | Preço sugerido |
 |---|---|---|---|
-| `zs_noads` | não consumível | Remove banner e intersticial (rewarded continua opcional) | US$ 4,99 |
-| `zs_noads_tickets` | não consumível | No-ads + 50 tickets (POPULAR) | US$ 7,99 |
-| `zs_tickets_5` … `zs_tickets_300` | consumível | 5 / 15 / 35 / 80 / 140 / 300 tickets | US$ 0,99 – 24,99 |
+| `zs_tickets_5` … `zs_tickets_300` | consumível | 5 / 15 / 35 / 80 / 140 / 300 tickets (pulam o vídeo) | US$ 0,99 – 24,99 |
 | `zs_coins_small` | consumível | 2 h de renda atual | US$ 0,99 |
 | `zs_coins_big` | consumível | 12 h de renda atual | US$ 4,99 |
-| `zs_golden_pack` | consumível, 1× por conta | 24 h de renda + 30 tickets + traje índice 9 ("Torcida com Taco") | US$ 9,99 |
-| `zs_outfit_discount` | consumível | Próximo traje bloqueado com 15% OFF (oferta relâmpago) | US$ 2,99 |
+| `zs_income_x2` | não consumível | **Renda ×2 para sempre** | US$ 6,99 |
+| `zs_golden_pack` | consumível, 1× por conta | 24 h de renda + 30 tickets + roupa índice 9 | US$ 9,99 |
+| `zs_outfit_unlock` | consumível | Compra a roupa escolhida (oferecida ao fim do teste) | US$ 2,99 |
+| `zs_item_levels_10` | consumível | +10 níveis permanentes no item escolhido | US$ 1,99 |
 
-Moedas que **escalam com a renda** (`coinsScaledToIncome`) mantêm o pacote relevante em qualquer ponto do jogo, como no idle original.
-O **ticket** é a ponte entre os dois modelos: quem paga pula vídeos e continua recebendo todas as recompensas.
+Não existe mais "Remove Ads", porque não há anúncio forçado para remover.
 
-## 3. Onde fica cada parte do código
+**Fluxo de compra:** `Buy(produto, alvo)` → salva o alvo escolhido → loja → compra validada → entrega uma vez por
+transação → **salva** → confirma à loja. Se a entrega ou o save falharem, a compra fica pendente e a loja reenvia.
+O Google Play reembolsa sozinho o que não for confirmado em 3 dias.
 
-| Arquivo | Papel |
-|---|---|
-| `jogo/Assets/Scripts/Economy/Rewards.cs` | Tipos de recompensa e booster (`RewardDefinition`) |
-| `jogo/Assets/Scripts/Economy/PlayerWallet.cs` | Moedas, tickets, no-ads, roupas e transações processadas (save) |
-| `jogo/Assets/Scripts/Economy/RewardGranter.cs` | **Único** ponto de crédito |
-| `jogo/Assets/Scripts/Monetization/RewardedOfferService.cs` | Fluxo "ticket ou vídeo → recompensa", com cooldown |
-| `jogo/Assets/Scripts/Monetization/PurchaseRewardHandler.cs` | Fluxo "compra validada → recompensa → salva → confirma" |
-| `jogo/Assets/Scripts/Monetization/InterstitialPacer.cs` | Regras de frequência do intersticial |
-| `jogo/Assets/Scripts/Monetization/Adapters/MaxAdService.cs` | AppLovin MAX (define `ZS_APPLOVIN_MAX`) |
-| `jogo/Assets/Scripts/Monetization/Adapters/UnityIapService.cs` | Unity IAP (define `ZS_UNITY_IAP`; TODOs da versão v5) |
-| `jogo/Assets/Scripts/Monetization/Adapters/MonetizationBootstrap.cs` | Lê os JSON e monta tudo; fakes no Editor |
-| `jogo/Assets/Tests/EditMode/MonetizationTests.cs` | Testes de ticket vs. vídeo, cooldown, idempotência e pacing |
+- **Produto com escolha** (`zs_outfit_unlock`, `zs_item_levels_10`): a escolha é salva antes de abrir a loja e descartada se
+  a compra for cancelada. Se ela se perder (save apagado entre a compra e a entrega), a compra fica pendente sem ser
+  confirmada e o Google Play reembolsa em 3 dias. Uma melhoria futura é a UI perguntar o alvo de novo.
+- **Robustez:** um vídeo por vez (trava global), ticket devolvido se o prêmio falhar, cooldown só conta se o prêmio foi
+  entregue, valores numéricos inválidos recusados antes de aplicar qualquer item, e o save é garantido antes de confirmar
+  até no reenvio da loja.
 
-Uso na UI:
+## Uso na UI
 
 ```csharp
-// Botão "x4 Toque"
-offers.Claim("rv_booster_tap_x4", outcome => ShowToast(outcome));
-// Ícone do botão: ticket ou vídeo
+// Botão "x4 Toque" (ícone de ticket se o jogador tiver tickets)
 ticketIcon.SetActive(offers.WillUseTicket("rv_booster_tap_x4"));
-// Roleta AFK: depois de sortear o multiplicador
-offers.Claim("rv_afk_multiplier", Done, placement.reward.WithMultiplier(sorteado), baseAmount: ganhoOffline);
-// Loja
-purchases.Buy("zs_tickets_35");
+offers.Claim("rv_booster_tap_x4", outcome => ShowToast(outcome));
+
+// "Provar esta roupa por 30 min"
+offers.Claim("rv_outfit_trial", Done, outfitIndex: roupa.Index);
+
+// Fim do teste → oferta
+effects.Expired += e => { if (e.kind == EffectKind.OutfitTrial) ShowBuyOrEarn(int.Parse(e.key)); };
+purchases.Buy("zs_outfit_unlock", outfitIndex: roupaTestada);
+
+// Cálculo de renda no gameplay
+var nivelEfetivo = nivelReal + effects.BonusLevels(EffectKind.ItemTrial, "bunker:4");
+var mult = wallet.PermanentIncomeMultiplier * (effects.IsBoosterActive(BoosterType.PassiveX4) ? 4 : 1);
+var roupaVisivel = effects.ActiveOutfitTrial() >= 0 ? effects.ActiveOutfitTrial() : roupaEquipada;
 ```
 
-## 4. Conformidade (antes de publicar)
+## Conformidade
 
-- **Consentimento:** Google UMP (GDPR/LGPD) antes de inicializar o MAX. O MAX tem fluxo CMP integrado (o original usa `MaxCmpService`).
-- **Google Play Families:** se o público incluir menores, use só redes certificadas para Families e não use anúncios personalizados.
-  O tema é pensado para 10+, mas confirme a classificação IARC.
-- **Política de anúncios do Play:** sem intersticial inesperado no meio da interação, sem recompensa que exija o anúncio
-  para progredir e rewarded sempre opcional e claramente sinalizado.
-- **Ordem de entrega:** creditar → salvar (`persist`) → confirmar à loja. Se o save falhar, a compra fica pendente e a loja reenvia.
-- **Restore em aparelho novo:** sem save na nuvem (Google Play Games Saved Games, Firebase ou servidor próprio), um save vazio
-  não sabe que os tickets do `zs_noads_tickets` já foram dados e os entrega de novo. Implemente save na nuvem antes de lançar,
-  ou venda tickets só em produtos consumíveis.
-- **Cooldowns** (presente grátis) ficam no save, mas usam o relógio do aparelho. Para algo valioso, use hora do servidor.
-- **Recibos:** valide no servidor (ou via AppsFlyer/Play Integrity) antes de entregar compras caras. O `transactionId` já evita entrega dupla.
-- **Restaurar compras:** botão em Configurações, que chama `IIapService.RestorePurchases`.
-- **Chaves:** SDK key e ad units do MAX vêm do Inspector ou Remote Config, nunca de texto versionado.
+- **Consentimento:** Google UMP (GDPR/LGPD) antes de inicializar o MAX.
+- **Política do Play:** rewarded sempre opcional e com o prêmio dito antes do vídeo. Sem intersticial, o maior risco
+  de política deixa de existir.
+- **Families:** se o público incluir menores, use só redes certificadas e sem anúncio personalizado.
+- **Save na nuvem:** sem ele, reinstalar num aparelho novo perde o registro de compras de "1× por conta".
+  Os não consumíveis (`zs_income_x2`) voltam pelo restore da loja.
+- **Relógio:** efeitos e cooldowns usam o relógio do aparelho. Para algo valioso, use hora do servidor.
+- **Chaves:** SDK key e ad unit Rewarded do MAX vêm do Inspector ou Remote Config, nunca de texto versionado.

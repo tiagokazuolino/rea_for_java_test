@@ -13,8 +13,16 @@ nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, 
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 1** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance1.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 230x216px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 230x216px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance2`
@@ -24,8 +32,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 2** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance2.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 230x216px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 230x216px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance3`
@@ -35,8 +51,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 3** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance3.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 221x217px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 221x217px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance4`
@@ -46,8 +70,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 4** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance4.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 221x246px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 221x246px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance5`
@@ -57,8 +89,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 5** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance5.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 216x352px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 216x352px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance6`
@@ -68,8 +108,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 6** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance6.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 220x360px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 220x360px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance7`
@@ -79,8 +127,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 7** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance7.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 232x319px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 232x319px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/dance8`
@@ -90,8 +146,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Dança Anti-Zumbi' nível 8** (confiança media)
 - Salvar em: `arte/novos_sprites/base/dance8.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 270x310px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 270x310px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype1`
@@ -101,8 +165,16 @@ skill icon 'Dança Anti-Zumbi': dancing silhouette dodging a zombie hand, upgrad
 - Novo asset: **Skill 'Grito de Guerra' nível 1** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype1.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 194x169px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 194x169px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype2`
@@ -112,8 +184,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 1 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 2** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype2.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 194x169px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 194x169px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype3`
@@ -123,8 +203,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 2 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 3** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype3.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 184x186px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 184x186px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype4`
@@ -134,8 +222,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 3 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 4** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype4.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 222x201px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 222x201px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype5`
@@ -145,8 +241,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 4 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 5** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype5.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 231x213px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 231x213px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype6`
@@ -156,8 +260,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 5 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 6** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype6.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 235x239px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 235x239px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype7`
@@ -167,8 +279,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 6 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 7** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype7.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 251x243px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 251x243px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/hype8`
@@ -178,8 +298,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 7 of 8 (mo
 - Novo asset: **Skill 'Grito de Guerra' nível 8** (confiança media)
 - Salvar em: `arte/novos_sprites/base/hype8.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 282x261px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 282x261px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke1`
@@ -189,8 +317,16 @@ skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 8 of 8 (mo
 - Novo asset: **Skill 'Humor Sombrio' nível 1** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke1.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 194x182px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 194x182px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke2`
@@ -200,8 +336,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 1 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 2** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke2.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 194x182px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 194x182px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke3`
@@ -211,8 +355,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 2 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 3** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke3.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 201x192px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 201x192px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke4`
@@ -222,8 +374,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 3 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 4** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke4.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 233x207px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 233x207px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke5`
@@ -233,8 +393,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 4 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 5** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke5.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 261x265px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 261x265px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke6`
@@ -244,8 +412,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 5 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 6** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke6.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 237x256px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 237x256px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke7`
@@ -255,8 +431,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 6 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 7** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke7.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 301x301px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 301x301px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/joke8`
@@ -266,8 +450,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 7 of 8
 - Novo asset: **Skill 'Humor Sombrio' nível 8** (confiança media)
 - Salvar em: `arte/novos_sprites/base/joke8.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 349x316px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 349x316px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing1`
@@ -277,8 +469,16 @@ skill icon 'Humor Sombrio': laughing face with zombie hand, upgrade level 8 of 8
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 1** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing1.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 221x266px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 221x266px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing2`
@@ -288,8 +488,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 2** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing2.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 221x266px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 221x266px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing3`
@@ -299,8 +507,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 3** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing3.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 231x280px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 231x280px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing4`
@@ -310,8 +526,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 4** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing4.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 268x334px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 268x334px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing5`
@@ -321,8 +545,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 5** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing5.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 250x352px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 250x352px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing6`
@@ -332,8 +564,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 6** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing6.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 253x352px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 253x352px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing7`
@@ -343,8 +583,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 7** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing7.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 261x302px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 261x302px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/sing8`
@@ -354,8 +602,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Canção de Ninar p/ Zumbis' nível 8** (confiança media)
 - Salvar em: `arte/novos_sprites/base/sing8.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 260x332px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 260x332px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and sleepy zombie, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk1`
@@ -365,8 +621,16 @@ skill icon 'Canção de Ninar p/ Zumbis': microphone with musical notes and slee
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 1** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk1.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 170x188px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 170x188px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 1 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk2`
@@ -376,8 +640,16 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 2** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk2.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 170x188px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 170x188px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 2 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk3`
@@ -387,8 +659,16 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 3** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk3.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 206x222px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 206x222px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 3 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk4`
@@ -398,8 +678,16 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 4** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk4.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 235x222px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 235x222px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 4 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk5`
@@ -409,8 +697,16 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 5** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk5.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 253x243px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 253x243px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 5 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk6`
@@ -420,8 +716,16 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 6** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk6.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 242x237px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 242x237px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 6 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk7`
@@ -431,8 +735,16 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 7** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk7.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 284x250px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 284x250px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 7 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```
 
 ## `base/talk8`
@@ -442,6 +754,14 @@ skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife 
 - Novo asset: **Skill 'Dicas de Sobrevivência' nível 8** (confiança media)
 - Salvar em: `arte/novos_sprites/base/talk8.png`
 
+Prompt (gerar do zero):
+
 ```
 skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 293x342px (keep this aspect ratio, generate at 2x and downscale)
+```
+
+Prompt de transformação (enviar junto com o sprite original):
+
+```
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 293x342px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Dicas de Sobrevivência': speech bubble with a small survival knife icon, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
 ```

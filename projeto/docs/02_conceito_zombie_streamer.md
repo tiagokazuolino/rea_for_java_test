@@ -74,12 +74,13 @@ Os itens de cada sala ficam em `design/economia/salas.json` (11 por sala, 75 ní
 | Chat com comentários e emojis | Chat com comentários de sobreviventes e de zumbis ("braaains 💀") e os mesmos 37 emojis com variante zumbi |
 | Doação (Claim Donation) | Doação de suprimentos (moedas) |
 | PK (batalha de streamers) | **Batalha de Horda**: quem segura mais zumbis em 30 s tocando na tela |
-| Presente AFK | "Enquanto você dormia, o abrigo produziu…" |
+| Presente AFK | "Enquanto você dormia, o abrigo produziu…" (só o ganho real, sem multiplicador por vídeo) |
 | História por capítulo | Uma história por abrigo: a busca pela cura com o Prof. Silva |
 | Quests | Mesmos 15 tipos de condição (`conditionType`) |
 
 ## Escopo do MVP sugerido
 
 1. Sala 1 completa (11 itens × 4 tiers), 5 skills, 6 roupas, ranks 1–5, chat e doações.
-2. Monetização: Remove Ads, tickets, 5 rewarded (boosters, AFK, doação x2, presente) e intersticial com pacing.
+2. Monetização ([MONETIZACAO.md](../design/monetizacao/MONETIZACAO.md)): sem intersticial e sem banner; vídeo opcional só dá
+   efeito temporário (boosters, testar roupa/item/skill); permanente só por conquista ou compra (tickets, renda x2, roupa testada).
 3. Depois: salas 2–6, PK, história, notificações e Remote Config.
