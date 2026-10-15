@@ -8,7 +8,7 @@ em artefatos Java (JARs, `.class`, APKs).
 ```
 .
 ├── .claude/
-│   ├── hooks/session-start.sh           # registra o MCP do REA em sessões na nuvem
+│   ├── hooks/session-start.sh           # prepara JADX/Apktool e registra o MCP do REA (nuvem)
 │   ├── settings.json                    # ativa o hook SessionStart
 │   └── skills/
 │       └── reverse-engineer-anything/   # skill do REA (instruções + referências)
@@ -47,14 +47,24 @@ npx rea-agents setup
 
 Reinicie o Claude Code depois.
 
-Em sessões do Claude Code na nuvem isso é automático: o hook
-`.claude/hooks/session-start.sh` faz esse mesmo registro (escopo local, sem
-`.mcp.json`) no início de cada sessão. Fora da nuvem o hook não faz nada. Para Android/JADX são necessários Java 17+ e o
+Em sessões do Claude Code na nuvem isso é automático. No início de cada sessão o
+hook `.claude/hooks/session-start.sh`:
+
+1. baixa para `~/.local/share/rea/android/`, conferindo o SHA-256 fixado:
+   - `jadx-headless-mcp-0.7.1-all.jar` (decompilação de APK; hash publicado pelo REA);
+   - `apktool_2.12.1.jar` + um launcher `apktool` (recursos e manifesto);
+2. exporta `REA_JADX_MCP_JAR` e `REA_APKTOOL_COMMAND` para a sessão;
+3. registra o servidor MCP `rea` (escopo local, sem `.mcp.json`) com essas variáveis.
+
+O JDK 17+ completo (com `javac`) e o `ps` já vêm na imagem da nuvem. Fora da
+nuvem o hook não faz nada. Para Android/JADX são necessários Java 17+ e o
 JAR do JADX MCP (`REA_JADX_MCP_JAR`); veja
 `.claude/skills/reverse-engineer-anything/references/android-applications.md`.
 
 ## Uso
 
-1. Copie o artefato para `targets/` (ex.: `targets/app.jar`).
-2. Peça ao Claude: _"Use o REA para analisar targets/app.jar e explique o que ele faz"_.
+1. Copie o artefato para `targets/` (ex.: `targets/app.apk`).
+2. Peça ao Claude: _"Use o REA para analisar targets/app.apk e explique o que ele faz"_.
+   Para APK o REA usa `inspect_android_package`, `search_android_classes`,
+   `inspect_android_class`, `inspect_android_method` e `trace_android_references`.
 3. Salve conclusões em `reports/`.
