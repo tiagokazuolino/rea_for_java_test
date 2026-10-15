@@ -1,0 +1,8 @@
+{
+    "name": "ZombieStreamer",
+    "rootNamespace": "ZombieStreamer",
+    "references": [],
+    "overrideReferences": true,
+    "precompiledReferences": ["Newtonsoft.Json.dll"],
+    "autoReferenced": true
+}

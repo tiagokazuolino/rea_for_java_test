@@ -10,3 +10,9 @@ targets/*
 .idea/
 .vscode/
 .DS_Store
+
+# Projeto: assets extraídos do jogo original são de terceiros (só referência local, nunca versionar/publicar)
+projeto/analise/apk_unpacked/
+projeto/analise/extraido/
+projeto/.venv/
+__pycache__/

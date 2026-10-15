@@ -1,0 +1,4 @@
+<!-- Impede o managed stripping do IL2CPP de remover DTOs usados só por reflexão (Newtonsoft). -->
+<linker>
+  <assembly fullname="ZombieStreamer" preserve="all" />
+</linker>

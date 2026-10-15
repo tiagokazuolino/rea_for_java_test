@@ -17,6 +17,7 @@ em artefatos Java (JARs, `.class`, APKs).
 │           └── references/
 ├── targets/    # artefatos a analisar (ignorados pelo git)
 ├── reports/    # relatórios/evidências produzidos nas investigações
+├── projeto/    # jogo derivado "Zombie Streamer" (análise, prompts, economia, monetização) — ver projeto/README.md
 └── README.md
 ```
 

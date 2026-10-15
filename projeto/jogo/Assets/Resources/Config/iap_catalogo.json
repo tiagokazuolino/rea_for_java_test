@@ -1,0 +1,170 @@
+{
+ "_doc": "Catálogo de compras (Google Play). productId deve ser criado igual no Play Console. rewards são entregues pelo RewardGranter após a compra ser validada. 'coinsScaledToIncome': moedas = renda/minuto atual * minutes.",
+ "products": [
+  {
+   "productId": "zs_noads",
+   "type": "NonConsumable",
+   "name": "Sem Anúncios",
+   "priceTier": "USD 4.99",
+   "rewards": [
+    {
+     "type": "NoAds"
+    }
+   ],
+   "notes": "Remove banner e intersticial; mantém rewarded opcional (como o original)."
+  },
+  {
+   "productId": "zs_noads_tickets",
+   "type": "NonConsumable",
+   "name": "Sem Anúncios + 50 Tickets",
+   "priceTier": "USD 7.99",
+   "badge": "POPULAR",
+   "rewards": [
+    {
+     "type": "NoAds"
+    },
+    {
+     "type": "Tickets",
+     "amount": 50
+    }
+   ]
+  },
+  {
+   "productId": "zs_tickets_5",
+   "type": "Consumable",
+   "name": "5 Tickets",
+   "priceTier": "USD 0.99",
+   "rewards": [
+    {
+     "type": "Tickets",
+     "amount": 5
+    }
+   ]
+  },
+  {
+   "productId": "zs_tickets_15",
+   "type": "Consumable",
+   "name": "15 Tickets",
+   "priceTier": "USD 1.99",
+   "badge": "+50%",
+   "rewards": [
+    {
+     "type": "Tickets",
+     "amount": 15
+    }
+   ]
+  },
+  {
+   "productId": "zs_tickets_35",
+   "type": "Consumable",
+   "name": "35 Tickets",
+   "priceTier": "USD 3.99",
+   "badge": "+40%",
+   "rewards": [
+    {
+     "type": "Tickets",
+     "amount": 35
+    }
+   ]
+  },
+  {
+   "productId": "zs_tickets_80",
+   "type": "Consumable",
+   "name": "80 Tickets",
+   "priceTier": "USD 7.99",
+   "badge": "+60%",
+   "rewards": [
+    {
+     "type": "Tickets",
+     "amount": 80
+    }
+   ]
+  },
+  {
+   "productId": "zs_tickets_140",
+   "type": "Consumable",
+   "name": "140 Tickets",
+   "priceTier": "USD 12.99",
+   "badge": "+85%",
+   "rewards": [
+    {
+     "type": "Tickets",
+     "amount": 140
+    }
+   ]
+  },
+  {
+   "productId": "zs_tickets_300",
+   "type": "Consumable",
+   "name": "300 Tickets",
+   "priceTier": "USD 24.99",
+   "badge": "+120%",
+   "rewards": [
+    {
+     "type": "Tickets",
+     "amount": 300
+    }
+   ]
+  },
+  {
+   "productId": "zs_coins_small",
+   "type": "Consumable",
+   "name": "Caixa de Suprimentos",
+   "priceTier": "USD 0.99",
+   "rewards": [
+    {
+     "type": "Coins",
+     "coinsScaledToIncome": true,
+     "minutes": 120
+    }
+   ]
+  },
+  {
+   "productId": "zs_coins_big",
+   "type": "Consumable",
+   "name": "Cofre do Bunker",
+   "priceTier": "USD 4.99",
+   "rewards": [
+    {
+     "type": "Coins",
+     "coinsScaledToIncome": true,
+     "minutes": 720
+    }
+   ]
+  },
+  {
+   "productId": "zs_golden_pack",
+   "type": "Consumable",
+   "name": "Pacote Dourado",
+   "priceTier": "USD 9.99",
+   "oncePerAccount": true,
+   "rewards": [
+    {
+     "type": "Coins",
+     "coinsScaledToIncome": true,
+     "minutes": 1440
+    },
+    {
+     "type": "Tickets",
+     "amount": 30
+    },
+    {
+     "type": "Outfit",
+     "outfitIndex": 9
+    }
+   ]
+  },
+  {
+   "productId": "zs_outfit_discount",
+   "type": "Consumable",
+   "name": "Roupa com 15% OFF (oferta relâmpago)",
+   "priceTier": "USD 2.99",
+   "rewards": [
+    {
+     "type": "OutfitNext"
+    }
+   ],
+   "notes": "Equivale ao ButtonReduce/FrameReduce do original: oferta por tempo limitado."
+  }
+ ]
+}

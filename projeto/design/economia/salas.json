@@ -1,0 +1,523 @@
+{
+ "_doc": "Preço do nível n = basePrice * priceGrowth^n (n de 0 a maxLevel-1). Tap/Pass por nível = tapPerLevel/passPerLevel (em centésimos de %, como no original: 400 = +4%). dependsOn = índice do item que precisa estar comprado.",
+ "maxLevel": 75,
+ "upgradeTimeSecondsMax": 300,
+ "rooms": [
+  {
+   "id": "bunker",
+   "name": "Quarto-Bunker",
+   "unlockRequiresPreviousRoomItem": null,
+   "basePrice": 5,
+   "priceGrowth": 1.155,
+   "items": [
+    {
+     "index": 0,
+     "name": "Sofá Barricada",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 1,
+     "name": "Mesa de Suprimentos",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 2,
+     "name": "Estante de Suprimentos",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 3,
+     "name": "Pelúcia Zumbi",
+     "dependsOn": 0,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 4,
+     "name": "Mesa de Live",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 5,
+     "name": "Monitor de Câmeras",
+     "dependsOn": 1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 6,
+     "name": "Gabinete Gamer",
+     "dependsOn": 1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 7,
+     "name": "Tapete",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 8,
+     "name": "Luminária",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 9,
+     "name": "Almofada",
+     "dependsOn": 0,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 10,
+     "name": "Quarto",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    }
+   ]
+  },
+  {
+   "id": "escola",
+   "name": "Escola Abandonada",
+   "unlockRequiresPreviousRoomItem": 10,
+   "basePrice": 31772,
+   "priceGrowth": 1.125,
+   "items": [
+    {
+     "index": 0,
+     "name": "Quadro de Avisos",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 1,
+     "name": "Relógio",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 2,
+     "name": "Carteira Blindada",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 3,
+     "name": "Estante",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 4,
+     "name": "Cortinas",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 5,
+     "name": "Tripé de Live",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 6,
+     "name": "Microfone",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 7,
+     "name": "Headset",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 8,
+     "name": "Luminária de Teto",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 9,
+     "name": "Troféu",
+     "dependsOn": 3,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 10,
+     "name": "Sala de Aula",
+     "dependsOn": 5,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    }
+   ]
+  },
+  {
+   "id": "pier",
+   "name": "Píer Fortificado",
+   "unlockRequiresPreviousRoomItem": 10,
+   "basePrice": 22012351,
+   "priceGrowth": 1.123,
+   "items": [
+    {
+     "index": 0,
+     "name": "Tripé de Live",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 1,
+     "name": "Câmera",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 2,
+     "name": "Esteira de Praia",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 3,
+     "name": "Boia",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 4,
+     "name": "Caixa Térmica",
+     "dependsOn": 3,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 5,
+     "name": "Copo",
+     "dependsOn": 3,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 6,
+     "name": "Notebook",
+     "dependsOn": 3,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 7,
+     "name": "Cadeira de Praia",
+     "dependsOn": 3,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 8,
+     "name": "Castelo de Areia",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 9,
+     "name": "Prancha",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 10,
+     "name": "Praia",
+     "dependsOn": 7,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    }
+   ]
+  },
+  {
+   "id": "cozinha",
+   "name": "Cozinha do Abrigo",
+   "unlockRequiresPreviousRoomItem": 10,
+   "basePrice": 11789253612,
+   "priceGrowth": 1.079,
+   "items": [
+    {
+     "index": 0,
+     "name": "Prateleira",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 1,
+     "name": "Janela",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 2,
+     "name": "Geladeira",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 3,
+     "name": "Lampião",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 4,
+     "name": "Mesa",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 5,
+     "name": "Cadeira",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 6,
+     "name": "Bolo",
+     "dependsOn": 4,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 7,
+     "name": "Luz de Live",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 8,
+     "name": "Baú",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 9,
+     "name": "Tapete",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 10,
+     "name": "Cozinha",
+     "dependsOn": 10,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    }
+   ]
+  },
+  {
+   "id": "shopping",
+   "name": "Shopping Saqueado",
+   "unlockRequiresPreviousRoomItem": 10,
+   "basePrice": 1536728620892,
+   "priceGrowth": 1.083,
+   "items": [
+    {
+     "index": 0,
+     "name": "Tripé de Live",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 1,
+     "name": "Balcão",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 2,
+     "name": "Sapateira",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 3,
+     "name": "Manequim",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 4,
+     "name": "Mesa",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 5,
+     "name": "Arara de Roupas",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 6,
+     "name": "Prateleira de Canto",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 7,
+     "name": "Letreiro",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 8,
+     "name": "Luminária",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 9,
+     "name": "Prateleira de Cosméticos",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 10,
+     "name": "Loja",
+     "dependsOn": 11,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    }
+   ]
+  },
+  {
+   "id": "cobertura",
+   "name": "Cobertura Final",
+   "unlockRequiresPreviousRoomItem": 10,
+   "basePrice": 243769078119137,
+   "priceGrowth": 1.075,
+   "items": [
+    {
+     "index": 0,
+     "name": "Cama",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 1,
+     "name": "Mesa",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 2,
+     "name": "PC",
+     "dependsOn": 1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 3,
+     "name": "Prateleira",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 4,
+     "name": "Cadeira",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 5,
+     "name": "Tapete",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 6,
+     "name": "Cortina",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 7,
+     "name": "Quadro",
+     "dependsOn": -1,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    },
+    {
+     "index": 8,
+     "name": "Planta",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 9,
+     "name": "Mesa de Live",
+     "dependsOn": -1,
+     "tapPerLevel": 400,
+     "passPerLevel": 200
+    },
+    {
+     "index": 10,
+     "name": "Quarto Final",
+     "dependsOn": 12,
+     "tapPerLevel": 200,
+     "passPerLevel": 400
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "_doc": "Placements de anúncio. kind: Rewarded (opcional, o jogador escolhe), Interstitial (automático, respeita pacing), Banner. ticketSkippable: um ticket substitui o vídeo e entrega a mesma recompensa.",
+ "interstitialPacing": {
+  "minSecondsBetween": 90,
+  "minSecondsAfterRewarded": 60,
+  "graceSecondsAfterInstall": 300,
+  "maxPerSession": 8,
+  "onlyOnNaturalBreaks": true
+ },
+ "placements": [
+  {
+   "id": "rv_booster_tap_x4",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "Booster",
+    "booster": "TapX4",
+    "durationSeconds": 180
+   },
+   "cooldownSeconds": 0,
+   "original": "Buttonx4Tap"
+  },
+  {
+   "id": "rv_booster_pass_x4",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "Booster",
+    "booster": "PassiveX4",
+    "durationSeconds": 180
+   },
+   "original": "ButtonX4Pass"
+  },
+  {
+   "id": "rv_booster_income_x10",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "Booster",
+    "booster": "IncomeX10",
+    "durationSeconds": 60
+   },
+   "original": "Buttonx10Income"
+  },
+  {
+   "id": "rv_booster_autoclick",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "Booster",
+    "booster": "AutoClick",
+    "durationSeconds": 300
+   },
+   "original": "BoosterAutoClickPopup"
+  },
+  {
+   "id": "rv_booster_double_coin",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "Booster",
+    "booster": "DoubleCoin",
+    "durationSeconds": 300
+   },
+   "original": "Boosterx2HeartPopup"
+  },
+  {
+   "id": "rv_afk_multiplier",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "AfkMultiplier",
+    "multipliers": [
+     2,
+     3,
+     5
+    ]
+   },
+   "original": "ClaimAfkPopup / AfkMultiplierSegment (roleta de multiplicador)"
+  },
+  {
+   "id": "rv_donation_x2",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "ClaimMultiplier",
+    "multiplier": 2
+   },
+   "original": "ClaimDonatePopup (Claim X2)"
+  },
+  {
+   "id": "rv_free_gift",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "Coins",
+    "coinsScaledToIncome": true,
+    "minutes": 30
+   },
+   "cooldownSeconds": 600,
+   "original": "FreeGiftPopup"
+  },
+  {
+   "id": "rv_upgrade_skill_free",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "FreeUpgrade",
+    "target": "Skill",
+    "levels": 1
+   },
+   "original": "UI.VideoUnavailable 'Skill Upgrade'"
+  },
+  {
+   "id": "rv_rankup_bonus",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "ClaimMultiplier",
+    "multiplier": 3
+   },
+   "original": "RankUpPopup (Claim xN)"
+  },
+  {
+   "id": "rv_pk_retry",
+   "kind": "Rewarded",
+   "ticketSkippable": true,
+   "reward": {
+    "type": "PkRetry"
+   },
+   "original": "PkWinLosePopup"
+  },
+  {
+   "id": "is_natural_break",
+   "kind": "Interstitial",
+   "triggers": [
+    "CloseShop",
+    "RoomChange",
+    "StoryEnd",
+    "PkEnd"
+   ],
+   "original": "'Ad break' + 'Interstitial pacing'"
+  },
+  {
+   "id": "banner_bottom",
+   "kind": "Banner",
+   "position": "Bottom"
+  }
+ ]
+}

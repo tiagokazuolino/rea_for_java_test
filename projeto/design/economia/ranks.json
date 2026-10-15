@@ -1,0 +1,110 @@
+{
+ "_doc": "followers = seguidores necessários; boost = multiplicador global; reward = moedas ao subir.",
+ "ranks": [
+  {
+   "rank": 1,
+   "title": "Sobrevivente Anônima",
+   "followers": 0,
+   "boost": 1,
+   "reward": 0
+  },
+  {
+   "rank": 2,
+   "title": "Primeira Live",
+   "followers": 12000,
+   "boost": 1,
+   "reward": 150
+  },
+  {
+   "rank": 3,
+   "title": "Voz do Abrigo",
+   "followers": 200000,
+   "boost": 1,
+   "reward": 1000
+  },
+  {
+   "rank": 4,
+   "title": "Caçadora de Views",
+   "followers": 1000000,
+   "boost": 1,
+   "reward": 10000
+  },
+  {
+   "rank": 5,
+   "title": "Rádio da Resistência",
+   "followers": 3000000,
+   "boost": 1,
+   "reward": 75000
+  },
+  {
+   "rank": 6,
+   "title": "Estrela do Bunker",
+   "followers": 15000000,
+   "boost": 4,
+   "reward": 200000
+  },
+  {
+   "rank": 7,
+   "title": "Lenda do Apocalipse",
+   "followers": 150000000,
+   "boost": 8,
+   "reward": 600000
+  },
+  {
+   "rank": 8,
+   "title": "Ícone da Horda",
+   "followers": 250000000,
+   "boost": 25,
+   "reward": 1200000
+  },
+  {
+   "rank": 9,
+   "title": "Rainha dos Escombros",
+   "followers": 550000000,
+   "boost": 80,
+   "reward": 50000000
+  },
+  {
+   "rank": 10,
+   "title": "Guardiã da Cidade",
+   "followers": 1350000000,
+   "boost": 250,
+   "reward": 150000000
+  },
+  {
+   "rank": 11,
+   "title": "Heroína Viral",
+   "followers": 3000000000,
+   "boost": 750,
+   "reward": 300000000
+  },
+  {
+   "rank": 12,
+   "title": "Fenômeno Global",
+   "followers": 4500000000,
+   "boost": 2500,
+   "reward": 500000000
+  },
+  {
+   "rank": 13,
+   "title": "Esperança da Humanidade",
+   "followers": 6000000000,
+   "boost": 10000,
+   "reward": 1000000000
+  },
+  {
+   "rank": 14,
+   "title": "Lenda Imortal",
+   "followers": 8000000000,
+   "boost": 15000,
+   "reward": 2000000000
+  },
+  {
+   "rank": 15,
+   "title": "A Última Streamer",
+   "followers": 10000000000,
+   "boost": 25000,
+   "reward": 5000000000
+  }
+ ]
+}

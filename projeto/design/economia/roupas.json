@@ -1,0 +1,206 @@
+{
+ "_doc": "equipBoost em centésimos de % (11500 = +115%). Conferir requiredRank/preço no balanceamento.",
+ "outfits": [
+  {
+   "index": 0,
+   "skinId": "1",
+   "name": "Moletom de Sobrevivente",
+   "requiredRank": 1,
+   "price": 500,
+   "priceNote": "crescimento ~x4.5 por roupa, como no original",
+   "equipBoost": 11500
+  },
+  {
+   "index": 1,
+   "skinId": "2",
+   "name": "Uniforme da Resistência",
+   "requiredRank": 1,
+   "price": 2250,
+   "equipBoost": 15500
+  },
+  {
+   "index": 2,
+   "skinId": "3",
+   "name": "Verão de Vigia",
+   "requiredRank": 2,
+   "price": 10125,
+   "equipBoost": 19500
+  },
+  {
+   "index": 3,
+   "skinId": "4",
+   "name": "Exploradora Urbana",
+   "requiredRank": 2,
+   "price": 45562,
+   "equipBoost": 23500
+  },
+  {
+   "index": 4,
+   "skinId": "5",
+   "name": "Exploradora Universitária",
+   "requiredRank": 3,
+   "price": 205031,
+   "equipBoost": 27500
+  },
+  {
+   "index": 5,
+   "skinId": "6",
+   "name": "Avental de Barricada",
+   "requiredRank": 3,
+   "price": 922641,
+   "equipBoost": 31500
+  },
+  {
+   "index": 6,
+   "skinId": "7",
+   "name": "Corredora Parkour",
+   "requiredRank": 4,
+   "price": 4151883,
+   "equipBoost": 35500
+  },
+  {
+   "index": 7,
+   "skinId": "8",
+   "name": "Médica de Campo",
+   "requiredRank": 4,
+   "price": 18683473,
+   "equipBoost": 39500
+  },
+  {
+   "index": 8,
+   "skinId": "9",
+   "name": "Streamer Kawaii",
+   "requiredRank": 5,
+   "price": 84075627,
+   "equipBoost": 43500
+  },
+  {
+   "index": 9,
+   "skinId": "10",
+   "name": "Torcida com Taco",
+   "requiredRank": 5,
+   "price": 378340321,
+   "equipBoost": 47500
+  },
+  {
+   "index": 10,
+   "skinId": "11",
+   "name": "Macacão de Mecânica",
+   "requiredRank": 6,
+   "price": 1702531446,
+   "equipBoost": 51500
+  },
+  {
+   "index": 11,
+   "skinId": "12",
+   "name": "Caçadora Noturna",
+   "requiredRank": 6,
+   "price": 7661391506,
+   "equipBoost": 55500
+  },
+  {
+   "index": 12,
+   "skinId": "12New",
+   "name": "Motoqueira de Resgate",
+   "requiredRank": 7,
+   "price": 34476261777,
+   "equipBoost": 59500
+  },
+  {
+   "index": 13,
+   "skinId": "13",
+   "name": "Suéter Aconchegante",
+   "requiredRank": 7,
+   "price": 155143177999,
+   "equipBoost": 63500
+  },
+  {
+   "index": 14,
+   "skinId": "14",
+   "name": "Anjo da Guarda",
+   "requiredRank": 8,
+   "price": 698144300994,
+   "equipBoost": 67500
+  },
+  {
+   "index": 15,
+   "skinId": "15",
+   "name": "Rockstar Incendiária",
+   "requiredRank": 8,
+   "price": 3141649354472,
+   "equipBoost": 71500
+  },
+  {
+   "index": 16,
+   "skinId": "16",
+   "name": "Verão Pós-Apocalipse",
+   "requiredRank": 9,
+   "price": 14137422095122,
+   "equipBoost": 75500
+  },
+  {
+   "index": 17,
+   "skinId": "17",
+   "name": "Agente Misteriosa",
+   "requiredRank": 9,
+   "price": 63618399428049,
+   "equipBoost": 79500
+  },
+  {
+   "index": 18,
+   "skinId": "18",
+   "name": "Cientista da Cura",
+   "requiredRank": 10,
+   "price": 286282797426222,
+   "equipBoost": 83500
+  },
+  {
+   "index": 19,
+   "skinId": "19",
+   "name": "Armadura Coração",
+   "requiredRank": 10,
+   "price": 1288272588417999,
+   "equipBoost": 87500
+  },
+  {
+   "index": 20,
+   "skinId": "20",
+   "name": "Gala do Fim do Mundo",
+   "requiredRank": 11,
+   "price": 5797226647880997,
+   "equipBoost": 91500
+  },
+  {
+   "index": 21,
+   "skinId": "21",
+   "name": "Dama do Bunker",
+   "requiredRank": 11,
+   "price": 26087519915464488,
+   "equipBoost": 95500
+  },
+  {
+   "index": 22,
+   "skinId": "22",
+   "name": "Kigurumi de Zumbi",
+   "requiredRank": 12,
+   "price": 117393839619590192,
+   "equipBoost": 99500
+  },
+  {
+   "index": 23,
+   "skinId": "23",
+   "name": "Estrela em Ascensão",
+   "requiredRank": 12,
+   "price": 528272278288155904,
+   "equipBoost": 103500
+  },
+  {
+   "index": 24,
+   "skinId": "24",
+   "name": "Halloween Caça-Zumbis",
+   "requiredRank": 13,
+   "price": 2377225252296701440,
+   "equipBoost": 107500
+  }
+ ]
+}

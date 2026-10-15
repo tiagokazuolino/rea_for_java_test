@@ -1,0 +1,38 @@
+{
+ "_doc": "5 skills com 451 níveis; preço = 5 * 1.0831^n. Cada skill soma TapRate e PassRate.",
+ "maxLevel": 451,
+ "basePrice": 5,
+ "priceGrowth": 1.0831,
+ "skills": [
+  {
+   "id": "talk",
+   "name": "Dicas de Sobrevivência",
+   "tapPerLevel": 300,
+   "passPerLevel": 300
+  },
+  {
+   "id": "joke",
+   "name": "Humor Sombrio",
+   "tapPerLevel": 300,
+   "passPerLevel": 300
+  },
+  {
+   "id": "dance",
+   "name": "Dança Anti-Zumbi",
+   "tapPerLevel": 300,
+   "passPerLevel": 300
+  },
+  {
+   "id": "sing",
+   "name": "Canção de Ninar p/ Zumbis",
+   "tapPerLevel": 300,
+   "passPerLevel": 300
+  },
+  {
+   "id": "hype",
+   "name": "Grito de Guerra",
+   "tapPerLevel": 300,
+   "passPerLevel": 300
+  }
+ ]
+}
