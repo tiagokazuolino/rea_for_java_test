@@ -8,6 +8,8 @@ em artefatos Java (JARs, `.class`, APKs).
 ```
 .
 ├── .claude/
+│   ├── hooks/session-start.sh           # registra o MCP do REA em sessões na nuvem
+│   ├── settings.json                    # ativa o hook SessionStart
 │   └── skills/
 │       └── reverse-engineer-anything/   # skill do REA (instruções + referências)
 │           ├── SKILL.md
@@ -43,7 +45,11 @@ claude mcp add --scope local rea -- npx -y rea-agents@6.5.0 mcp
 npx rea-agents setup
 ```
 
-Reinicie o Claude Code depois. Para Android/JADX são necessários Java 17+ e o
+Reinicie o Claude Code depois.
+
+Em sessões do Claude Code na nuvem isso é automático: o hook
+`.claude/hooks/session-start.sh` faz esse mesmo registro (escopo local, sem
+`.mcp.json`) no início de cada sessão. Fora da nuvem o hook não faz nada. Para Android/JADX são necessários Java 17+ e o
 JAR do JADX MCP (`REA_JADX_MCP_JAR`); veja
 `.claude/skills/reverse-engineer-anything/references/android-applications.md`.
 
