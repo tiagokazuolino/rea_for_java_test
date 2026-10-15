@@ -1,0 +1,14 @@
+ID: base/kitchen1
+Tamanho: 1024x697
+Função original: Miniatura/fundo da sala Kitchen (Room4)
+Novo asset: Sala 'Cozinha do Abrigo'
+Salvar em: arte/novos_sprites/base/kitchen1.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same camera perspective, horizon line and floor area (props are placed on top of it), canvas 1024x697px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: restaurant kitchen used as survivor canteen, pots and supplies, anime background painting, wide interior/exterior scene, no characters, depth of field, warm and neon lighting mixed, post-apocalyptic but cozy. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+restaurant kitchen used as survivor canteen, pots and supplies, anime background painting, wide interior/exterior scene, no characters, depth of field, warm and neon lighting mixed, post-apocalyptic but cozy. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 1024x697px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

@@ -1,0 +1,14 @@
+ID: room_01/ghe3_bong
+Tamanho: 672x205
+Função original: Móvel 'Sofa/Chair'
+Novo asset: Poltrona Blindada - tier 3 (shadow layer only, soft dark ellipse)
+Salvar em: arte/novos_sprites/room_01/ghe3_bong.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same isometric angle, footprint, size and shadow direction (it must fit the same spot in the room), canvas 672x205px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: armchair with metal plates (shadow layer only, soft dark ellipse), tier 3: reinforced with metal and neon accents, isometric 3/4 view game prop, soft drop shadow, transparent background, centered, no text, no characters. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+armchair with metal plates (shadow layer only, soft dark ellipse), tier 3: reinforced with metal and neon accents, isometric 3/4 view game prop, soft drop shadow, transparent background, centered, no text, no characters. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 672x205px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

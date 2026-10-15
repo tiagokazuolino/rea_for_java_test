@@ -1,0 +1,14 @@
+ID: room_01/den_tran2
+Tamanho: 134x82
+Função original: Móvel 'Light'
+Novo asset: Luminária - tier 2
+Salvar em: arte/novos_sprites/room_01/den_tran2__1.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same isometric angle, footprint, size and shadow direction (it must fit the same spot in the room), canvas 134x82px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: ceiling lamp made from scavenged parts, tier 2: repaired and cleaned, some reinforcement, isometric 3/4 view game prop, soft drop shadow, transparent background, centered, no text, no characters. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+ceiling lamp made from scavenged parts, tier 2: repaired and cleaned, some reinforcement, isometric 3/4 view game prop, soft drop shadow, transparent background, centered, no text, no characters. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 134x82px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

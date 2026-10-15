@@ -1,0 +1,14 @@
+ID: base/hype8
+Tamanho: 282x261
+Função original: Ícone da skill 'Hype' nível 8
+Novo asset: Skill 'Grito de Guerra' nível 8
+Salvar em: arte/novos_sprites/base/hype8.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same icon framing and level badge position, canvas 282x261px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+skill icon 'Grito de Guerra': megaphone with shockwave, upgrade level 8 of 8 (more ornate frame and glow as level increases), glossy 3D-style game icon, bold outline, transparent background, centered, readable at 64px, no text unless specified. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 282x261px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

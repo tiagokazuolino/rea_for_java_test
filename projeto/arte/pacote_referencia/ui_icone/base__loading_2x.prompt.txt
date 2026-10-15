@@ -1,0 +1,14 @@
+ID: base/loading_2x
+Tamanho: 64x64
+Função original: Ícone de carregamento
+Novo asset: circular loading spinner made of tiny zombie hands
+Salvar em: arte/novos_sprites/base/loading_2x.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same silhouette size and meaning, canvas 64x64px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: circular loading spinner made of tiny zombie hands, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+circular loading spinner made of tiny zombie hands, glossy candy mobile game UI element, rounded shapes, bevel and inner glow, palette toxic lime green #9BE564 + hot pink #FF4FA3 + deep purple #3B1F5C, subtle duct-tape and scratch details, transparent background, flat front view. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 64x64px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

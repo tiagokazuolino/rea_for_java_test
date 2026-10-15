@@ -1,0 +1,14 @@
+ID: closet_03/3
+Tamanho: 460x1637
+Função original: Pose de corpo inteiro com regata preta e short cáqui (3)
+Novo asset: Mia - 'Exploradora Urbana' - pose 'heart hands'
+Salvar em: arte/novos_sprites/closet_03/3.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the exact same pose and body framing (it is one frame of an outfit pose set), canvas 460x1637px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: full body Mia (adult survivor streamer, blonde hair with blue tips, gaming headset) wearing black t-shirt, khaki cargo pants, utility belt, heart hands, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+full body Mia (adult survivor streamer, blonde hair with blue tips, gaming headset) wearing black t-shirt, khaki cargo pants, utility belt, heart hands, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 460x1637px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

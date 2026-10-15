@@ -1,0 +1,14 @@
+ID: base/Idol
+Tamanho: 941x1600
+Função original: Idol lendária
+Novo asset: A Streamer Lendária (neutral expression)
+Salvar em: arte/novos_sprites/base/Idol.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 941x1600px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: legendary idol streamer sitting cross-legged in a glowing aura, white stage outfit with protective jacket, mysterious and inspiring, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+legendary idol streamer sitting cross-legged in a glowing aura, white stage outfit with protective jacket, mysterious and inspiring, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 941x1600px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

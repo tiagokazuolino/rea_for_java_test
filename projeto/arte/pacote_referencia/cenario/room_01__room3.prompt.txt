@@ -1,0 +1,14 @@
+ID: room_01/room3
+Tamanho: 1780x3625
+Função original: Fundo do quarto (Room)
+Novo asset: Quarto-Bunker (fundo) - tier 3
+Salvar em: arte/novos_sprites/room_01/room3.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same camera perspective, horizon line and floor area (props are placed on top of it), canvas 1780x3625px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: small teen-style bedroom turned into a fortified bunker, boarded window, tier 3: reinforced with metal and neon accents, anime background painting, wide interior/exterior scene, no characters, depth of field, warm and neon lighting mixed, post-apocalyptic but cozy. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+small teen-style bedroom turned into a fortified bunker, boarded window, tier 3: reinforced with metal and neon accents, anime background painting, wide interior/exterior scene, no characters, depth of field, warm and neon lighting mixed, post-apocalyptic but cozy. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 1780x3625px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

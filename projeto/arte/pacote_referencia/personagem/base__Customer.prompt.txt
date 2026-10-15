@@ -1,0 +1,14 @@
+ID: base/Customer
+Tamanho: 405x648
+Função original: Cliente (sala 5 loja)
+Novo asset: Sobrevivente compradora (neutral expression)
+Salvar em: arte/novos_sprites/base/Customer.png
+
+== PROMPT DE TRANSFORMAÇÃO (enviar junto com o .png) ==
+Transform this image into a NEW original asset for the mobile game 'Zombie Streamer: Idle Survival'. Keep the same pose, body proportions, camera framing and expression intensity, canvas 405x648px and transparent background. Redesign everything else (character identity, face, hair, clothing, colors, details, line style) - do not just recolor or trace. Target: adult woman survivor shopper, cardigan, holding a bag of canned food, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. Style: high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. Avoid: nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped.
+
+== PROMPT DO ZERO ==
+adult woman survivor shopper, cardigan, holding a bag of canned food, neutral expression, adult woman (age 20+), modest non-revealing outfit, full body, thick white sticker outline around silhouette, transparent background, centered, no text. high-quality anime game illustration, soft cel shading, clean lineart, vibrant saturated colors, glossy highlights, mobile idle game asset, post-apocalyptic cozy vibe, cute-spooky zombie theme. canvas 405x648px (keep this aspect ratio, generate at 2x and downscale)
+
+== NEGATIVO ==
+nsfw, nudity, cleavage, lingerie, swimsuit, suggestive pose, child, loli, gore, blood splatter, exposed organs, realistic photo, 3d render, text, watermark, logo, signature, blurry, jpeg artifacts, extra fingers, deformed hands, cropped

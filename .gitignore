@@ -18,4 +18,4 @@ projeto/.venv/
 __pycache__/
 
 # Pacote de trabalho com os sprites originais (arte de terceiros)
-projeto/arte/pacote_referencia/
+# projeto/arte/pacote_referencia/
